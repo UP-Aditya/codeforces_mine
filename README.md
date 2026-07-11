@@ -43,14 +43,16 @@ problem's Codeforces rating (or `Unrated/` if the problem has no rating).
 <!-- AUTO-GENERATED:START -->
 ## 📊 Statistics
 
-**Total solutions uploaded:** 0
+**Total solutions uploaded:** 2
 **Last updated:** _never_
-**Current day counter:** 0
+**Current day counter:** 1
 
-_No solutions have been uploaded yet. Run `auto_push.py` to get started._
+**By rating:** 800 (2)
 
 | # | Problem | Contest | Rating | Link |
 |---|---------|---------|--------|------|
+| 1 | 1-1 | 2207A | 800 | [Link](https://codeforces.com/problemset/problem/2207/A) |
+| 2 | 2023 | 1916A | 800 | [Link](https://codeforces.com/problemset/problem/1916/A) |
 <!-- AUTO-GENERATED:END -->
 
 ---
