@@ -43,16 +43,21 @@ problem's Codeforces rating (or `Unrated/` if the problem has no rating).
 <!-- AUTO-GENERATED:START -->
 ## 📊 Statistics
 
-**Total solutions uploaded:** 2
-**Last updated:** _never_
-**Current day counter:** 1
+**Total solutions uploaded:** 7
+**Last updated:** 2026-07-11T23:47:39.156722
+**Current day counter:** 2
 
-**By rating:** 800 (2)
+**By rating:** 800 (3), 900 (1), 1000 (1), 1400 (1), 1600 (1)
 
 | # | Problem | Contest | Rating | Link |
 |---|---------|---------|--------|------|
 | 1 | 1-1 | 2207A | 800 | [Link](https://codeforces.com/problemset/problem/2207/A) |
-| 2 | 2023 | 1916A | 800 | [Link](https://codeforces.com/problemset/problem/1916/A) |
+| 2 | Adjacent Digit Sums | 2067A | 800 | [Link](https://codeforces.com/contest/2067/problem/A) |
+| 3 | 2023 | 1916A | 800 | [Link](https://codeforces.com/problemset/problem/1916/A) |
+| 4 | AB Balance | 1606A | 900 | [Link](https://codeforces.com/problemset/problem/1606/A) |
+| 5 | Add and Divide | 1485A | 1000 | [Link](https://codeforces.com/problemset/problem/1485/A) |
+| 6 | Alice and Bob | 346A | 1600 | [Link](https://codeforces.com/problemset/problem/346/A) |
+| 7 | Adding Digits | 260A | 1400 | [Link](https://codeforces.com/problemset/problem/260/A) |
 <!-- AUTO-GENERATED:END -->
 
 ---
