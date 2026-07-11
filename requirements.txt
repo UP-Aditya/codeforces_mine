@@ -1,0 +1,7 @@
+# Python 3.12.8 required
+requests>=2.31.0,<3.0.0
+colorama>=0.4.6,<0.5.0
+tqdm>=4.66.0,<5.0.0
+
+# Optional: only needed if you use run_scheduler.py instead of Windows Task Scheduler
+schedule>=1.2.0,<2.0.0

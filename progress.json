@@ -1,0 +1,8 @@
+{
+    "day_counter": 0,
+    "total_uploaded": 0,
+    "last_run": null,
+    "last_commit_hash": null,
+    "uploaded_problems": {},
+    "pending_unresolved": {}
+}

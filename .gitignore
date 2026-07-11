@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Automation runtime artifacts (regenerable / local-only)
+cf_problems_cache.json
+logs/
+*.log
+
+# Editor / OS
+.vscode/settings.json
+.DS_Store
+Thumbs.db
+
+# NOTE:
+# progress.json and upload_log.txt are intentionally NOT ignored.
+# They are committed so the automation state and history travel with the repo
+# and survive a fresh clone / machine reinstall.
