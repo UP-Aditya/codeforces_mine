@@ -4,7 +4,7 @@
     "git_remote_name": "origin",
     "git_remote_url": "https://github.com/UP-Aditya/codeforces_mine.git",
     "git_branch": "main",
-    "daily_upload_count": 2,
+    "daily_upload_count": 5,
     "ignore_dirs": [
         ".git",
         ".github",
