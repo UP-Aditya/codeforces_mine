@@ -69,23 +69,15 @@
     <text x="92" y="57" font-family="Verdana, Geneva, sans-serif" font-size="9"
           fill="#86efac">LIVE</text>
 
-    <!-- big animated counter -->
+    <!-- big animated counter: clean scale+fade entrance, then settles and stays -->
     <text x="78" y="82" font-family="Consolas, 'Courier New', monospace" font-weight="bold"
-          font-size="34" fill="url(#numGrad)" filter="url(#glow)">
-      <tspan opacity="0">
-        <animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.9s" fill="freeze"/>
-        {{TOTAL}}+
-      </tspan>
-    </text>
-
-    <!-- count-up flicker frames (slot-machine style reveal before settling) -->
-    <text x="78" y="82" font-family="Consolas, 'Courier New', monospace" font-weight="bold"
-          font-size="34" fill="url(#numGrad)" opacity="0.9">
-      <tspan>
-        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.75;0.751;1" dur="0.9s" fill="freeze"/>
-        <animate attributeName="x" values="78;78" dur="0.9s" fill="freeze"/>
-        0+
-      </tspan>
+          font-size="34" fill="url(#numGrad)" filter="url(#glow)"
+          opacity="0" transform-origin="78px 82px">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.1s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale"
+        values="0.7;1.08;1" keyTimes="0;0.7;1" dur="0.6s" begin="0.1s"
+        additive="sum" fill="freeze"/>
+      {{TOTAL}}+
     </text>
 
     <!-- sheen sweep across the whole badge -->
