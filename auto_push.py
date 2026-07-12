@@ -733,7 +733,30 @@ class ReadmeBuilder:
         self.path.write_text(new_content, encoding="utf-8")
         self.logger.info("README.md regenerated.")
 
+# =============================================================================
+# Stats badge generator (animated SVG showing live total problems pushed)
+# =============================================================================
+class StatsBadgeGenerator:
+    """Regenerates assets/stats-badge.svg from assets/stats-badge.template.svg,
+    substituting the current total_uploaded count on every run."""
 
+    def __init__(self, repo_path: Path, logger: logging.Logger):
+        self.template_path = repo_path / "assets" / "stats-badge.template.svg"
+        self.output_path = repo_path / "assets" / "stats-badge.svg"
+        self.logger = logger
+
+    def regenerate(self, progress: "ProgressStore") -> None:
+        if not self.template_path.exists():
+            self.logger.warning(
+                f"Badge template not found at {self.template_path}; skipping badge regeneration."
+            )
+            return
+        total = progress.state["total_uploaded"]
+        template = self.template_path.read_text(encoding="utf-8")
+        svg = template.replace("{{TOTAL}}", str(total))
+        self.output_path.parent.mkdir(parents=True, exist_ok=True)
+        self.output_path.write_text(svg, encoding="utf-8")
+        self.logger.info(f"stats-badge.svg regenerated -> {total}+ problems")
 # =============================================================================
 # Upload log writer (append-only audit trail)
 # =============================================================================
@@ -769,6 +792,7 @@ class AutoPushOrchestrator:
         self.progress = ProgressStore(self.repo_path / config.progress_file, logger)
         self.upload_log = UploadLogWriter(self.repo_path / config.upload_log_file)
         self.readme = ReadmeBuilder(self.repo_path / config.readme_file, config, logger)
+        self.badge = StatsBadgeGenerator(self.repo_path, logger)
 
         self.summary: dict[str, Any] = {
             "started_at": datetime.now(),
@@ -982,6 +1006,7 @@ class AutoPushOrchestrator:
 
             self.progress.bump_day()
             self.readme.regenerate(self.progress)
+            self.badge.regenerate(self.progress)
 
             self.git.add_all()
             commit_message = f"Add Codeforces solutions (Day {day})"
