@@ -77,7 +77,7 @@
       <animateTransform attributeName="transform" type="scale"
         values="0.7;1.08;1" keyTimes="0;0.7;1" dur="0.6s" begin="0.1s"
         additive="sum" fill="freeze"/>
-      27+
+      32+
     </text>
 
     <!-- sheen sweep across the whole badge -->
