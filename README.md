@@ -18,7 +18,6 @@ to this repository — fully unattended.
 > to edit freely.
 
 ---
-
 ## How this repo is organized
 
 ```
