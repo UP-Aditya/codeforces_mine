@@ -740,9 +740,11 @@ class StatsBadgeGenerator:
     """Regenerates assets/stats-badge.svg from assets/stats-badge.template.svg,
     substituting the current total_uploaded count on every run."""
 
-    def __init__(self, repo_path: Path, logger: logging.Logger):
-        self.template_path = repo_path / "assets" / "stats-badge.template.svg"
-        self.output_path = repo_path / "assets" / "stats-badge.svg"
+    def __init__(self, repo_path: Path, logger: logging.Logger,
+                 template_name: str = "stats-badge.template.svg",
+                 output_name: str = "stats-badge.svg"):
+        self.template_path = repo_path / "assets" / template_name
+        self.output_path = repo_path / "assets" / output_name
         self.logger = logger
 
     def regenerate(self, progress: "ProgressStore") -> None:
@@ -792,7 +794,11 @@ class AutoPushOrchestrator:
         self.progress = ProgressStore(self.repo_path / config.progress_file, logger)
         self.upload_log = UploadLogWriter(self.repo_path / config.upload_log_file)
         self.readme = ReadmeBuilder(self.repo_path / config.readme_file, config, logger)
-        self.badge = StatsBadgeGenerator(self.repo_path, logger)
+        self.solved_button = StatsBadgeGenerator(
+            self.repo_path, logger,
+            template_name="solved-button.template.svg",
+            output_name="solved-button.svg",
+        )
 
         self.summary: dict[str, Any] = {
             "started_at": datetime.now(),
@@ -1006,7 +1012,7 @@ class AutoPushOrchestrator:
 
             self.progress.bump_day()
             self.readme.regenerate(self.progress)
-            self.badge.regenerate(self.progress)
+            self.solved_button.regenerate(self.progress)
 
             self.git.add_all()
             commit_message = f"Add Codeforces solutions (Day {day})"
