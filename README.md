@@ -1,7 +1,11 @@
-# Codeforces Solutions Archive
+<h1>
+  Codeforces Solutions Archive
+  <a href="https://codeforces.com/profile/chahat">
+    <img src="assets/solved-button.svg" align="right" height="56"/>
+  </a>
+</h1>
 
 An automatically curated, self-organizing archive of my Codeforces solutions.
-[![Solved](assets/solved-button.svg)](https://codeforces.com/profile/chahat)
 
 Every day, `auto_push.py` scans my local competitive-programming folder, identifies
 newly solved problems (via CPH metadata + the Codeforces API), renames and files
