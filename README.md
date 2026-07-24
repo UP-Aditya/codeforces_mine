@@ -47,11 +47,11 @@ problem's Codeforces rating (or `Unrated/` if the problem has no rating).
 <!-- AUTO-GENERATED:START -->
 ## 📊 Statistics
 
-**Total solutions uploaded:** 82
-**Last updated:** 2026-07-21T22:00:55.719927
-**Current day counter:** 17
+**Total solutions uploaded:** 87
+**Last updated:** 2026-07-24T04:21:09.937722
+**Current day counter:** 18
 
-**By rating:** 800 (48), 900 (9), 1000 (10), 1100 (4), 1200 (2), 1300 (3), 1400 (3), 1500 (1), 1600 (1), 1700 (1)
+**By rating:** 800 (50), 900 (9), 1000 (12), 1100 (4), 1200 (2), 1300 (3), 1400 (4), 1500 (1), 1600 (1), 1700 (1)
 
 | # | Problem | Contest | Rating | Link |
 |---|---------|---------|--------|------|
@@ -99,44 +99,49 @@ problem's Codeforces rating (or `Unrated/` if the problem has no rating).
 | 42 | Forked! | 1904A | 900 | [Link](https://codeforces.com/problemset/problem/1904/A) |
 | 43 | Game with Integers | 1899A | 800 | [Link](https://codeforces.com/contest/1899/problem/A) |
 | 44 | Don't Try to Count | 1881A | 800 | [Link](https://codeforces.com/problemset/problem/1881/A) |
-| 45 | Goals of Victory | 1877A | 800 | [Link](https://codeforces.com/problemset/problem/1877/A) |
-| 46 | Desorting | 1853A | 800 | [Link](https://codeforces.com/contest/1853/problem/A) |
-| 47 | Forbidden Integer | 1845A | 800 | [Link](https://codeforces.com/problemset/problem/1845/A) |
-| 48 | Game with Board | 1841A | 800 | [Link](https://codeforces.com/contest/1841/problem/A) |
-| 49 | Grasshopper on a Line | 1837A | 800 | [Link](https://codeforces.com/contest/1837/problem/A) |
-| 50 | Divisible Array | 1828A | 800 | [Link](https://codeforces.com/problemset/problem/1828/A) |
-| 51 | Counting Orders | 1827A | 1100 | [Link](https://codeforces.com/problemset/problem/1827/A) |
-| 52 | Coins | 1814A | 800 | [Link](https://codeforces.com/problemset/problem/1814/A) |
-| 53 | Extremely Round | 1766A | 800 | [Link](https://codeforces.com/problemset/problem/1766/A) |
-| 54 | Bestie | 1732A | 1000 | [Link](https://codeforces.com/problemset/problem/1732/A) |
-| 55 | AB Balance | 1606A | 900 | [Link](https://codeforces.com/problemset/problem/1606/A) |
-| 56 | Exciting Bets | 1543A | 900 | [Link](https://codeforces.com/problemset/problem/1543/A) |
-| 57 | Add and Divide | 1485A | 1000 | [Link](https://codeforces.com/problemset/problem/1485/A) |
-| 58 | Buying Torches | 1418A | 1000 | [Link](https://codeforces.com/problemset/problem/1418/A) |
-| 59 | Ehab Fails to Be Thanos | 1174A | 1000 | [Link](https://codeforces.com/problemset/problem/1174/A) |
-| 60 | Digits Sequence Dividing | 1107A | 900 | [Link](https://codeforces.com/problemset/problem/1107/A) |
-| 61 | Fafa and his Company | 935A | 800 | [Link](https://codeforces.com/problemset/problem/935/A) |
-| 62 | Cloning Toys | 922A | 1300 | [Link](https://codeforces.com/problemset/problem/922/A) |
-| 63 | Diversity | 844A | 1000 | [Link](https://codeforces.com/problemset/problem/844/A) |
-| 64 | Anastasia and pebbles | 789A | 1100 | [Link](https://codeforces.com/problemset/problem/789/A) |
-| 65 | Elephant | 617A | 800 | [Link](https://codeforces.com/contest/617/problem/A) |
-| 66 | Bear and Poker | 573A | 1300 | [Link](https://codeforces.com/contest/573/problem/A) |
-| 67 | Chewbaсca and Number | 514A | 1200 | [Link](https://codeforces.com/contest/514/problem/A) |
-| 68 | Amr and Music | 507A | 1000 | [Link](https://codeforces.com/contest/507/problem/A) |
-| 69 | Bits | 484A | 1700 | [Link](https://codeforces.com/problemset/problem/484/A) |
-| 70 | Dreamoon and Stairs | 476A | 1000 | [Link](https://codeforces.com/problemset/problem/476/A) |
-| 71 | Boredom | 455A | 1500 | [Link](https://codeforces.com/problemset/problem/455/a) |
-| 72 | Fox and Box Accumulation | 388A | 1400 | [Link](https://codeforces.com/contest/388/problem/A) |
-| 73 | Alice and Bob | 346A | 1600 | [Link](https://codeforces.com/problemset/problem/346/A) |
-| 74 | Candy Bags | 334A | 1000 | [Link](https://codeforces.com/problemset/problem/334/A) |
-| 75 | Fancy Fence | 270A | 1100 | [Link](https://codeforces.com/problemset/problem/270/A) |
-| 76 | Adding Digits | 260A | 1400 | [Link](https://codeforces.com/problemset/problem/260/A) |
-| 77 | Cards with Numbers | 254A | 1200 | [Link](https://codeforces.com/problemset/problem/254/A) |
-| 78 | Boys and Girls | 253A | 1100 | [Link](https://codeforces.com/contest/253/problem/A) |
-| 79 | Cut Ribbon | 189A | 1300 | [Link](https://codeforces.com/problemset/problem/189/A) |
-| 80 | Cifera | 114A | 1000 | [Link](https://codeforces.com/contest/114/problem/A) |
-| 81 | Bar | 56A | 1000 | [Link](https://codeforces.com/problemset/problem/56/A) |
-| 82 | Almost Prime | 26A | 900 | [Link](https://codeforces.com/contest/26/problem/A) |
+| 45 | How Much Does Daytona Cost? | 1878A | 800 | [Link](https://codeforces.com/problemset/problem/1878/A) |
+| 46 | Goals of Victory | 1877A | 800 | [Link](https://codeforces.com/problemset/problem/1877/A) |
+| 47 | Helmets in Night Light | 1876A | 1000 | [Link](https://codeforces.com/problemset/problem/1876/A) |
+| 48 | green_gold_dog, array and permutation | 1867A | 800 | [Link](https://codeforces.com/contest/1867/problem/A) |
+| 49 | Desorting | 1853A | 800 | [Link](https://codeforces.com/contest/1853/problem/A) |
+| 50 | Forbidden Integer | 1845A | 800 | [Link](https://codeforces.com/problemset/problem/1845/A) |
+| 51 | Game with Board | 1841A | 800 | [Link](https://codeforces.com/contest/1841/problem/A) |
+| 52 | Grasshopper on a Line | 1837A | 800 | [Link](https://codeforces.com/contest/1837/problem/A) |
+| 53 | Divisible Array | 1828A | 800 | [Link](https://codeforces.com/problemset/problem/1828/A) |
+| 54 | Counting Orders | 1827A | 1100 | [Link](https://codeforces.com/problemset/problem/1827/A) |
+| 55 | Coins | 1814A | 800 | [Link](https://codeforces.com/problemset/problem/1814/A) |
+| 56 | Extremely Round | 1766A | 800 | [Link](https://codeforces.com/problemset/problem/1766/A) |
+| 57 | Bestie | 1732A | 1000 | [Link](https://codeforces.com/problemset/problem/1732/A) |
+| 58 | AB Balance | 1606A | 900 | [Link](https://codeforces.com/problemset/problem/1606/A) |
+| 59 | Exciting Bets | 1543A | 900 | [Link](https://codeforces.com/problemset/problem/1543/A) |
+| 60 | Add and Divide | 1485A | 1000 | [Link](https://codeforces.com/problemset/problem/1485/A) |
+| 61 | Buying Torches | 1418A | 1000 | [Link](https://codeforces.com/problemset/problem/1418/A) |
+| 62 | Heating | 1260A | 1000 | [Link](https://codeforces.com/problemset/problem/1260/A) |
+| 63 | Ehab Fails to Be Thanos | 1174A | 1000 | [Link](https://codeforces.com/problemset/problem/1174/A) |
+| 64 | Digits Sequence Dividing | 1107A | 900 | [Link](https://codeforces.com/problemset/problem/1107/A) |
+| 65 | Fafa and his Company | 935A | 800 | [Link](https://codeforces.com/problemset/problem/935/A) |
+| 66 | Cloning Toys | 922A | 1300 | [Link](https://codeforces.com/problemset/problem/922/A) |
+| 67 | Diversity | 844A | 1000 | [Link](https://codeforces.com/problemset/problem/844/A) |
+| 68 | Anastasia and pebbles | 789A | 1100 | [Link](https://codeforces.com/problemset/problem/789/A) |
+| 69 | Elephant | 617A | 800 | [Link](https://codeforces.com/contest/617/problem/A) |
+| 70 | Bear and Poker | 573A | 1300 | [Link](https://codeforces.com/contest/573/problem/A) |
+| 71 | Chewbaсca and Number | 514A | 1200 | [Link](https://codeforces.com/contest/514/problem/A) |
+| 72 | Amr and Music | 507A | 1000 | [Link](https://codeforces.com/contest/507/problem/A) |
+| 73 | Bits | 484A | 1700 | [Link](https://codeforces.com/problemset/problem/484/A) |
+| 74 | Dreamoon and Stairs | 476A | 1000 | [Link](https://codeforces.com/problemset/problem/476/A) |
+| 75 | Boredom | 455A | 1500 | [Link](https://codeforces.com/problemset/problem/455/a) |
+| 76 | Fox and Box Accumulation | 388A | 1400 | [Link](https://codeforces.com/contest/388/problem/A) |
+| 77 | Alice and Bob | 346A | 1600 | [Link](https://codeforces.com/problemset/problem/346/A) |
+| 78 | Candy Bags | 334A | 1000 | [Link](https://codeforces.com/problemset/problem/334/A) |
+| 79 | Greg and Array | 295A | 1400 | [Link](https://codeforces.com/problemset/problem/295/A) |
+| 80 | Fancy Fence | 270A | 1100 | [Link](https://codeforces.com/problemset/problem/270/A) |
+| 81 | Adding Digits | 260A | 1400 | [Link](https://codeforces.com/problemset/problem/260/A) |
+| 82 | Cards with Numbers | 254A | 1200 | [Link](https://codeforces.com/problemset/problem/254/A) |
+| 83 | Boys and Girls | 253A | 1100 | [Link](https://codeforces.com/contest/253/problem/A) |
+| 84 | Cut Ribbon | 189A | 1300 | [Link](https://codeforces.com/problemset/problem/189/A) |
+| 85 | Cifera | 114A | 1000 | [Link](https://codeforces.com/contest/114/problem/A) |
+| 86 | Bar | 56A | 1000 | [Link](https://codeforces.com/problemset/problem/56/A) |
+| 87 | Almost Prime | 26A | 900 | [Link](https://codeforces.com/contest/26/problem/A) |
 <!-- AUTO-GENERATED:END -->
 
 ---
