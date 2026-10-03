@@ -47,11 +47,11 @@ problem's Codeforces rating (or `Unrated/` if the problem has no rating).
 <!-- AUTO-GENERATED:START -->
 ## 📊 Statistics
 
-**Total solutions uploaded:** 377
-**Last updated:** 2026-09-30T22:00:39.672128
-**Current day counter:** 76
+**Total solutions uploaded:** 382
+**Last updated:** 2026-10-01T22:01:31.159433
+**Current day counter:** 77
 
-**By rating:** 800 (126), 900 (52), 1000 (61), 1100 (48), 1200 (38), 1300 (27), 1400 (9), 1500 (5), 1600 (6), 1700 (2), 1800 (1), Unrated (2)
+**By rating:** 800 (127), 900 (52), 1000 (61), 1100 (48), 1200 (41), 1300 (27), 1400 (10), 1500 (5), 1600 (6), 1700 (2), 1800 (1), Unrated (2)
 
 | # | Problem | Contest | Rating | Link |
 |---|---------|---------|--------|------|
@@ -225,213 +225,218 @@ problem's Codeforces rating (or `Unrated/` if the problem has no rating).
 | 168 | Maximise The Score | 1930A | 800 | [Link](https://codeforces.com/contest/1930/problem/A) |
 | 169 | Following the String | 1927B | 900 | [Link](https://codeforces.com/problemset/problem/1927/B) |
 | 170 | A Balanced Problemset? | 1925B | 1200 | [Link](https://codeforces.com/contest/1925/problem/B) |
-| 171 | Minimize Inversions | 1918B | 900 | [Link](https://codeforces.com/problemset/problem/1918/B) |
-| 172 | 2023 | 1916A | 800 | [Link](https://codeforces.com/problemset/problem/1916/A) |
-| 173 | Problemsolving Log | 1914A | 800 | [Link](https://codeforces.com/contest/1914/problem/A) |
-| 174 | Make Almost Equal With Mod | 1909B | 1200 | [Link](https://codeforces.com/problemset/problem/1909/B) |
-| 175 | Rook | 1907A | 800 | [Link](https://codeforces.com/problemset/problem/1907/A) |
-| 176 | Collecting Game | 1904B | 1100 | [Link](https://codeforces.com/problemset/problem/1904/B) |
-| 177 | Forked! | 1904A | 900 | [Link](https://codeforces.com/problemset/problem/1904/A) |
-| 178 | Getting Points | 1902B | 1100 | [Link](https://codeforces.com/problemset/problem/1902/B) |
-| 179 | Game with Integers | 1899A | 800 | [Link](https://codeforces.com/contest/1899/problem/A) |
-| 180 | Deja Vu | 1891B | 1100 | [Link](https://codeforces.com/problemset/problem/1891/B) |
-| 181 | Sum of Three | 1886A | 800 | [Link](https://codeforces.com/problemset/problem/1886/A) |
-| 182 | Haunted House | 1884B | 1100 | [Link](https://codeforces.com/contest/1884/problem/B) |
-| 183 | Chemistry | 1883B | 900 | [Link](https://codeforces.com/problemset/problem/1883/B) |
-| 184 | Don't Try to Count | 1881A | 800 | [Link](https://codeforces.com/problemset/problem/1881/A) |
-| 185 | How Much Does Daytona Cost? | 1878A | 800 | [Link](https://codeforces.com/problemset/problem/1878/A) |
-| 186 | Goals of Victory | 1877A | 800 | [Link](https://codeforces.com/problemset/problem/1877/A) |
-| 187 | Helmets in Night Light | 1876A | 1000 | [Link](https://codeforces.com/problemset/problem/1876/A) |
-| 188 | Jellyfish and Undertale | 1875A | 900 | [Link](https://codeforces.com/problemset/problem/1875/A) |
-| 189 | Jellyfish and Game | 1874A | 1200 | [Link](https://codeforces.com/problemset/problem/1874/A) |
-| 190 | 2D Traveling | 1869B | 1100 | [Link](https://codeforces.com/problemset/problem/1869/B) |
-| 191 | Make It Zero | 1869A | 900 | [Link](https://codeforces.com/problemset/problem/1869/A) |
-| 192 | green_gold_dog, array and permutation | 1867A | 800 | [Link](https://codeforces.com/contest/1867/problem/A) |
-| 193 | Prime Deletion | 1861A | 800 | [Link](https://codeforces.com/problemset/problem/1861/A) |
-| 194 | Olya and Game with Arrays | 1859B | 1000 | [Link](https://codeforces.com/problemset/problem/1859/B) |
-| 195 | United We Stand | 1859A | 800 | [Link](https://codeforces.com/problemset/problem/1859/A) |
-| 196 | Good Arrays | 1856B | 900 | [Link](https://codeforces.com/contest/1856/problem/B) |
-| 197 | Longest Divisors Interval | 1855B | 900 | [Link](https://codeforces.com/problemset/problem/1855/B) |
-| 198 | Desorting | 1853A | 800 | [Link](https://codeforces.com/contest/1853/problem/A) |
-| 199 | Monsters | 1849B | 1000 | [Link](https://codeforces.com/problemset/problem/1849/B) |
-| 200 | Morning Sandwich | 1849A | 800 | [Link](https://codeforces.com/problemset/problem/1849/A) |
-| 201 | Forbidden Integer | 1845A | 800 | [Link](https://codeforces.com/problemset/problem/1845/A) |
-| 202 | Permutations & Primes | 1844B | 1000 | [Link](https://codeforces.com/problemset/problem/1844/B) |
-| 203 | Game with Board | 1841A | 800 | [Link](https://codeforces.com/contest/1841/problem/A) |
-| 204 | Lamps | 1839B | 1100 | [Link](https://codeforces.com/problemset/problem/1839/B) |
-| 205 | Comparison String | 1837B | 900 | [Link](https://codeforces.com/problemset/problem/1837/B) |
-| 206 | Grasshopper on a Line | 1837A | 800 | [Link](https://codeforces.com/contest/1837/problem/A) |
-| 207 | Unit Array | 1834A | 800 | [Link](https://codeforces.com/contest/1834/problem/A) |
-| 208 | Maximum Sum | 1832B | 1100 | [Link](https://codeforces.com/problemset/problem/1832/B) |
-| 209 | Array merging | 1831B | 1000 | [Link](https://codeforces.com/problemset/problem/1831/B) |
-| 210 | Twin Permutations | 1831A | 800 | [Link](https://codeforces.com/problemset/problem/1831/A) |
-| 211 | Divisible Array | 1828A | 800 | [Link](https://codeforces.com/problemset/problem/1828/A) |
-| 212 | Counting Orders | 1827A | 1100 | [Link](https://codeforces.com/problemset/problem/1827/A) |
-| 213 | Lunatic Never Content | 1826B | 1100 | [Link](https://codeforces.com/problemset/problem/1826/B) |
-| 214 | TubeTube Feed | 1822A | 800 | [Link](https://codeforces.com/problemset/problem/1822/A) |
-| 215 | JoJo's Incredible Adventures | 1820B | 1100 | [Link](https://codeforces.com/problemset/problem/1820/B) |
-| 216 | Grid Reconstruction | 1816B | 1000 | [Link](https://codeforces.com/problemset/problem/1816/B) |
-| 217 | Coins | 1814A | 800 | [Link](https://codeforces.com/problemset/problem/1814/A) |
-| 218 | Conveyor Belts | 1811B | 1000 | [Link](https://codeforces.com/problemset/problem/1811/B) |
-| 219 | Candies | 1810B | 800 | [Link](https://codeforces.com/problemset/problem/1810/B) |
-| 220 | Walking Master | 1806A | 800 | [Link](https://codeforces.com/problemset/problem/1806/A) |
-| 221 | We Need the Zero | 1805A | 800 | [Link](https://codeforces.com/problemset/problem/1805/A) |
-| 222 | Count the Number of Pairs | 1800B | 1000 | [Link](https://codeforces.com/problemset/problem/1800/B) |
-| 223 | Not Dividing | 1794B | 900 | [Link](https://codeforces.com/problemset/problem/1794/B) |
-| 224 | Fedya and Array | 1793B | 1100 | [Link](https://codeforces.com/problemset/problem/1793/B) |
-| 225 | Serval and Mocha's Array | 1789A | 800 | [Link](https://codeforces.com/problemset/problem/1789/A) |
-| 226 | Number Factorization | 1787B | 1100 | [Link](https://codeforces.com/problemset/problem/1787/B) |
-| 227 | Going to the Cinema | 1781B | 1000 | [Link](https://codeforces.com/contest/1781/problem/B) |
-| 228 | GCD Partition | 1780B | 1100 | [Link](https://codeforces.com/problemset/problem/1780/B) |
-| 229 | Koxia and Permutation | 1770B | 1000 | [Link](https://codeforces.com/contest/1770/problem/B) |
-| 230 | Koxia and Whiteboards | 1770A | 1000 | [Link](https://codeforces.com/problemset/problem/1770/A) |
-| 231 | Notepad# | 1766B | 1000 | [Link](https://codeforces.com/contest/1766/problem/B) |
-| 232 | Extremely Round | 1766A | 800 | [Link](https://codeforces.com/problemset/problem/1766/A) |
-| 233 | Broken Keyboard | 1765B | 800 | [Link](https://codeforces.com/problemset/problem/1765/B) |
-| 234 | Incinerate | 1763B | 1200 | [Link](https://codeforces.com/problemset/problem/1763/B) |
-| 235 | Elimination of a Ring | 1761B | 1000 | [Link](https://codeforces.com/problemset/problem/1761/B) |
-| 236 | Indirect Sort | 1750A | 800 | [Link](https://codeforces.com/contest/1750/problem/A) |
-| 237 | Number Replacement | 1744A | 800 | [Link](https://codeforces.com/problemset/problem/1744/A) |
-| 238 | Bestie | 1732A | 1000 | [Link](https://codeforces.com/problemset/problem/1732/A) |
-| 239 | Kill Demodogs | 1731B | 1100 | [Link](https://codeforces.com/problemset/problem/1731/B) |
-| 240 | Mainak and Array | 1726A | 900 | [Link](https://codeforces.com/problemset/problem/1726/A) |
-| 241 | Basketball Together | 1725B | 1000 | [Link](https://codeforces.com/problemset/problem/1725/B) |
-| 242 | Beautiful Array | 1715B | 1000 | [Link](https://codeforces.com/problemset/problem/1715/B) |
-| 243 | Luke is a Foodie | 1704B | 1000 | [Link](https://codeforces.com/problemset/problem/1704/B) |
-| 244 | NIT Destroys the Universe | 1696B | 900 | [Link](https://codeforces.com/problemset/problem/1696/B) |
-| 245 | Circle Game | 1695B | 1000 | [Link](https://codeforces.com/problemset/problem/1695/B) |
-| 246 | A Perfectly Balanced String? | 1673B | 1100 | [Link](https://codeforces.com/problemset/problem/1673/B) |
-| 247 | Array Cloning Technique | 1665B | 900 | [Link](https://codeforces.com/problemset/problem/1665/B) |
-| 248 | DIV + MOD | 1650B | 900 | [Link](https://codeforces.com/problemset/problem/1650/B) |
-| 249 | Fun with Even Subarrays | 1631B | 1100 | [Link](https://codeforces.com/problemset/problem/1631/B) |
-| 250 | Make AP | 1624B | 900 | [Link](https://codeforces.com/problemset/problem/1624/B) |
-| 251 | Divan and a New Project  | 1614B | 1000 | [Link](https://codeforces.com/problemset/problem/1614/B) |
-| 252 | Kalindrome Array | 1610B | 1100 | [Link](https://codeforces.com/problemset/problem/1610/B) |
-| 253 | Odd Grasshopper | 1607B | 900 | [Link](https://codeforces.com/problemset/problem/1607/B) |
-| 254 | AB Balance | 1606A | 900 | [Link](https://codeforces.com/problemset/problem/1606/A) |
-| 255 | Make it Divisible by 25 | 1593B | 900 | [Link](https://codeforces.com/problemset/problem/1593/B) |
-| 256 | MEXor Mixup | 1567B | 1000 | [Link](https://codeforces.com/problemset/problem/1567/B) |
-| 257 | Mocha and Math | 1559A | 900 | [Link](https://codeforces.com/problemset/problem/1559/A) |
-| 258 | Exciting Bets | 1543A | 900 | [Link](https://codeforces.com/problemset/problem/1543/A) |
-| 259 | Bad Boy | 1537B | 900 | [Link](https://codeforces.com/problemset/problem/1537/B) |
-| 260 | Permutation Sort | 1525B | 900 | [Link](https://codeforces.com/problemset/problem/1525/B) |
-| 261 | Nastia and a Good Array | 1521B | 1300 | [Link](https://codeforces.com/problemset/problem/1521/B) |
-| 262 | Flip the Bits | 1504B | 1200 | [Link](https://codeforces.com/problemset/problem/1504/B) |
-| 263 | M-arrays | 1497B | 1200 | [Link](https://codeforces.com/problemset/problem/1497/B) |
-| 264 | Cat Cycle | 1487B | 1200 | [Link](https://codeforces.com/problemset/problem/1487/B) |
-| 265 | Add and Divide | 1485A | 1000 | [Link](https://codeforces.com/problemset/problem/1485/A) |
-| 266 | Searching Local Minimum | 1479A | 1700 | [Link](https://codeforces.com/contest/1479/problem/A) |
-| 267 | Strange Partition | 1471A | 900 | [Link](https://codeforces.com/problemset/problem/1471/A) |
-| 268 | Row GCD | 1458A | 1600 | [Link](https://codeforces.com/problemset/problem/1458/A) |
-| 269 | Buying Torches | 1418A | 1000 | [Link](https://codeforces.com/problemset/problem/1418/A) |
-| 270 | Fair Numbers | 1411B | 1000 | [Link](https://codeforces.com/problemset/problem/1411/B) |
-| 271 | Three Indices | 1380A | 900 | [Link](https://codeforces.com/problemset/problem/1380/A) |
-| 272 | Multiply by 2, divide by 6 | 1374B | 900 | [Link](https://codeforces.com/problemset/problem/1374/B) |
-| 273 | 01 Game | 1373B | 900 | [Link](https://codeforces.com/problemset/problem/1373/B) |
-| 274 | Omkar and Last Class of Math | 1372B | 1300 | [Link](https://codeforces.com/problemset/problem/1372/B) |
-| 275 | Most socially-distanced subsequence | 1364B | 1300 | [Link](https://codeforces.com/contest/1364/problem/B) |
-| 276 | Johnny and Ancient Computer | 1362A | 1000 | [Link](https://codeforces.com/problemset/problem/1362/A) |
-| 277 | Orac and LCM | 1349A | 1600 | [Link](https://codeforces.com/problemset/problem/1349/A) |
-| 278 | Nastya and Door | 1341B | 1300 | [Link](https://codeforces.com/contest/1341/problem/B) |
-| 279 | Sum of Odd Integers | 1327A | 1100 | [Link](https://codeforces.com/contest/1327/problem/A) |
-| 280 | Bogosort | 1312B | 1000 | [Link](https://codeforces.com/problemset/problem/1312/B) |
-| 281 | Just Eat It! | 1285B | 1300 | [Link](https://codeforces.com/problemset/problem/1285/B) |
-| 282 | Heating | 1260A | 1000 | [Link](https://codeforces.com/problemset/problem/1260/A) |
-| 283 | Balanced Tunnel | 1237B | 1300 | [Link](https://codeforces.com/contest/1237/problem/B) |
-| 284 | TV Subscriptions (Hard Version) | 1225B2 | 1300 | [Link](https://codeforces.com/problemset/problem/1225/B2) |
-| 285 | Badges | 1214B | 1100 | [Link](https://codeforces.com/problemset/problem/1214/B) |
-| 286 | Email from Polycarp | 1185B | 1200 | [Link](https://codeforces.com/problemset/problem/1185/B) |
-| 287 | Ehab Fails to Be Thanos | 1174A | 1000 | [Link](https://codeforces.com/problemset/problem/1174/A) |
-| 288 | Reverse a Substring | 1155A | 1000 | [Link](https://codeforces.com/problemset/problem/1155/A) |
-| 289 | Draw! | 1131B | 1400 | [Link](https://codeforces.com/problemset/problem/1131/B) |
-| 290 | Alyona and a Narrow Fridge | 1119B | 1300 | [Link](https://codeforces.com/problemset/problem/1119/B) |
-| 291 | Digits Sequence Dividing | 1107A | 900 | [Link](https://codeforces.com/problemset/problem/1107/A) |
-| 292 | LCM | 1068B | 1200 | [Link](https://codeforces.com/problemset/problem/1068/B) |
-| 293 | Buying a TV Set | 1041B | 1000 | [Link](https://codeforces.com/problemset/problem/1041/B) |
-| 294 | Palindrome Dance | 1040A | 1000 | [Link](https://codeforces.com/problemset/problem/1040/A) |
-| 295 | Non-Coprime Partition | 1038B | 1100 | [Link](https://codeforces.com/problemset/problem/1038/B) |
-| 296 | Packets | 1037A | 1300 | [Link](https://codeforces.com/contest/1037/problem/A) |
-| 297 | New Building for SIS | 1020A | 1000 | [Link](https://codeforces.com/problemset/problem/1020/A) |
-| 298 | Planning The Expedition | 1011B | 1200 | [Link](https://codeforces.com/problemset/problem/1011/B) |
-| 299 | Getting an A | 991B | 900 | [Link](https://codeforces.com/problemset/problem/991/B) |
-| 300 | Row | 982A | 1200 | [Link](https://codeforces.com/problemset/problem/982/A) |
-| 301 | Fafa and the Gates | 935B | 900 | [Link](https://codeforces.com/problemset/problem/935/B) |
-| 302 | Fafa and his Company | 935A | 800 | [Link](https://codeforces.com/problemset/problem/935/A) |
-| 303 | Cloning Toys | 922A | 1300 | [Link](https://codeforces.com/problemset/problem/922/A) |
-| 304 | Divisiblity of Differences | 876B | 1300 | [Link](https://codeforces.com/problemset/problem/876/B) |
-| 305 | Diversity | 844A | 1000 | [Link](https://codeforces.com/problemset/problem/844/A) |
-| 306 | Average Sleep Time | 808B | 1300 | [Link](https://codeforces.com/problemset/problem/808/B) |
-| 307 | k-Factorization | 797A | 1100 | [Link](https://codeforces.com/problemset/problem/797/A) |
-| 308 | Anastasia and pebbles | 789A | 1100 | [Link](https://codeforces.com/problemset/problem/789/A) |
-| 309 | The Monster | 787A | 1200 | [Link](https://codeforces.com/problemset/problem/787/A) |
-| 310 | k-th divisor | 762A | 1400 | [Link](https://codeforces.com/problemset/problem/762/A) |
-| 311 | Chloe and the sequence  | 743B | 1200 | [Link](https://codeforces.com/contest/743/problem/B) |
-| 312 | Vladik and flights | 743A | 1200 | [Link](https://codeforces.com/contest/743/problem/A) |
-| 313 | Anton and Digits | 734B | 800 | [Link](https://codeforces.com/problemset/problem/734/B) |
-| 314 | Jumping Ball | 725A | 1000 | [Link](https://codeforces.com/problemset/problem/725/A) |
-| 315 | Vacations | 698A | 1400 | [Link](https://codeforces.com/problemset/problem/698/A) |
-| 316 | Elephant | 617A | 800 | [Link](https://codeforces.com/contest/617/problem/A) |
-| 317 | New Year and Old Property | 611B | 1300 | [Link](https://codeforces.com/contest/611/problem/B) |
-| 318 | Saitama Destroys Hotel | 608A | 1000 | [Link](https://codeforces.com/problemset/problem/608/A) |
-| 319 | Olesya and Rodion | 584A | 1000 | [Link](https://codeforces.com/contest/584/problem/A) |
-| 320 | Kefa and Company | 580B | 1500 | [Link](https://codeforces.com/problemset/problem/580/B) |
-| 321 | Vasya and Petya's Game | 576A | 1500 | [Link](https://codeforces.com/problemset/problem/576/A) |
-| 322 | Bear and Poker | 573A | 1300 | [Link](https://codeforces.com/contest/573/problem/A) |
-| 323 | Chewbaсca and Number | 514A | 1200 | [Link](https://codeforces.com/contest/514/problem/A) |
-| 324 | Anton and currency you all know | 508B | 1300 | [Link](https://codeforces.com/problemset/problem/508/B) |
-| 325 | Amr and Music | 507A | 1000 | [Link](https://codeforces.com/contest/507/problem/A) |
-| 326 | Modular Equations | 495B | 1600 | [Link](https://codeforces.com/problemset/problem/495/B) |
-| 327 | Bits | 484A | 1700 | [Link](https://codeforces.com/problemset/problem/484/A) |
-| 328 | Dreamoon and Stairs | 476A | 1000 | [Link](https://codeforces.com/problemset/problem/476/A) |
-| 329 | I Wanna Be the Guy | 469A | 800 | [Link](https://codeforces.com/problemset/problem/469/A) |
-| 330 | Appleman and Card Game | 462B | 1300 | [Link](https://codeforces.com/problemset/problem/462/B) |
-| 331 | Pashmak and Flowers | 459B | 1300 | [Link](https://codeforces.com/problemset/problem/459/B) |
-| 332 | Pashmak and Garden | 459A | 1200 | [Link](https://codeforces.com/problemset/problem/459/A) |
-| 333 | Boredom | 455A | 1500 | [Link](https://codeforces.com/problemset/problem/455/a) |
-| 334 | Little Pony and Sort by Shift | 454B | 1200 | [Link](https://codeforces.com/problemset/problem/454/B) |
-| 335 | Jzzhu and Sequences | 450B | 1300 | [Link](https://codeforces.com/problemset/problem/450/B) |
-| 336 | Kitahara Haruki's Gift | 433A | 1100 | [Link](https://codeforces.com/problemset/problem/433/A) |
-| 337 | Megacity | 424B | 1200 | [Link](https://codeforces.com/problemset/problem/424/B) |
-| 338 | Mashmokh and Numbers | 414A | 1500 | [Link](https://codeforces.com/problemset/problem/414/A) |
-| 339 | Fox and Box Accumulation | 388A | 1400 | [Link](https://codeforces.com/contest/388/problem/A) |
-| 340 | New Year Candles | 379A | 1000 | [Link](https://codeforces.com/contest/379/problem/A) |
-| 341 | Fence | 363B | 1100 | [Link](https://codeforces.com/problemset/problem/363/B) |
-| 342 | Levko and Permutation | 361B | 1200 | [Link](https://codeforces.com/contest/361/problem/B) |
-| 343 | TL | 350A | 1200 | [Link](https://codeforces.com/problemset/problem/350/A) |
-| 344 | Alice and Bob | 346A | 1600 | [Link](https://codeforces.com/problemset/problem/346/A) |
-| 345 | Rational Resistance | 343A | 1600 | [Link](https://codeforces.com/problemset/problem/343/A) |
-| 346 | Xenia and Divisors | 342A | 1200 | [Link](https://codeforces.com/problemset/problem/342/A) |
-| 347 | Candy Bags | 334A | 1000 | [Link](https://codeforces.com/problemset/problem/334/A) |
-| 348 | Hungry Sequence | 327B | 1200 | [Link](https://codeforces.com/problemset/problem/327/B) |
-| 349 | Sereja and Bottles | 315A | 1400 | [Link](https://codeforces.com/problemset/problem/315/A) |
-| 350 | Ilya and Queries | 313B | 1100 | [Link](https://codeforces.com/problemset/problem/313/B) |
-| 351 | Yaroslav and Sequence | 301A | 1800 | [Link](https://codeforces.com/problemset/problem/301/A) |
-| 352 | Greg and Array | 295A | 1400 | [Link](https://codeforces.com/problemset/problem/295/A) |
-| 353 | Books | 279B | 1400 | [Link](https://codeforces.com/contest/279/problem/B) |
-| 354 | Lights Out | 275A | 900 | [Link](https://codeforces.com/problemset/problem/275/A) |
-| 355 | Fancy Fence | 270A | 1100 | [Link](https://codeforces.com/problemset/problem/270/A) |
-| 356 | Stones on the Table | 266A | 800 | [Link](https://codeforces.com/problemset/problem/266/A) |
-| 357 | Adding Digits | 260A | 1400 | [Link](https://codeforces.com/problemset/problem/260/A) |
-| 358 | Cards with Numbers | 254A | 1200 | [Link](https://codeforces.com/problemset/problem/254/A) |
-| 359 | Boys and Girls | 253A | 1100 | [Link](https://codeforces.com/contest/253/problem/A) |
-| 360 | Increase and Decrease | 246B | 1300 | [Link](https://codeforces.com/problemset/problem/246/B) |
-| 361 | Two Bags of Potatoes | 239A | 1200 | [Link](https://codeforces.com/problemset/problem/239/A) |
-| 362 | Easy Number Challenge | 236B | 1300 | [Link](https://codeforces.com/problemset/problem/236/B) |
-| 363 | Little Elephant and Problem | 220A | 1300 | [Link](https://codeforces.com/contest/220/problem/A) |
-| 364 | Cut Ribbon | 189A | 1300 | [Link](https://codeforces.com/problemset/problem/189/A) |
-| 365 | Phone Code | 172A | 800 | [Link](https://codeforces.com/problemset/problem/172/A) |
-| 366 | Burning Midnight Oil | 165B | 1500 | [Link](https://codeforces.com/contest/165/problem/B) |
-| 367 | Colliders | 154B | 1600 | [Link](https://codeforces.com/problemset/problem/154/B) |
-| 368 | Cifera | 114A | 1000 | [Link](https://codeforces.com/contest/114/problem/A) |
-| 369 | Testing Pants for Sadness | 103A | 1100 | [Link](https://codeforces.com/problemset/problem/103/A) |
-| 370 | Magical Array | 83A | 1300 | [Link](https://codeforces.com/problemset/problem/83/A) |
-| 371 | Petya and Countryside | 66B | 1100 | [Link](https://codeforces.com/problemset/problem/66/B) |
-| 372 | Where Are My Flakes? | 60A | 1300 | [Link](https://codeforces.com/contest/60/problem/A) |
-| 373 | Bar | 56A | 1000 | [Link](https://codeforces.com/problemset/problem/56/A) |
-| 374 | Reconnaissance | 32A | 800 | [Link](https://codeforces.com/problemset/problem/32/A) |
-| 375 | Worms Evolution | 31A | 1200 | [Link](https://codeforces.com/problemset/problem/31/A) |
-| 376 | Almost Prime | 26A | 900 | [Link](https://codeforces.com/contest/26/problem/A) |
-| 377 | Watermelon | 4A | 800 | [Link](https://codeforces.com/problemset/problem/4/A) |
+| 171 | Plus-Minus Split | 1919B | 800 | [Link](https://codeforces.com/problemset/problem/1919/B) |
+| 172 | Minimize Inversions | 1918B | 900 | [Link](https://codeforces.com/problemset/problem/1918/B) |
+| 173 | 2023 | 1916A | 800 | [Link](https://codeforces.com/problemset/problem/1916/A) |
+| 174 | Problemsolving Log | 1914A | 800 | [Link](https://codeforces.com/contest/1914/problem/A) |
+| 175 | Make Almost Equal With Mod | 1909B | 1200 | [Link](https://codeforces.com/problemset/problem/1909/B) |
+| 176 | Rook | 1907A | 800 | [Link](https://codeforces.com/problemset/problem/1907/A) |
+| 177 | Collecting Game | 1904B | 1100 | [Link](https://codeforces.com/problemset/problem/1904/B) |
+| 178 | Forked! | 1904A | 900 | [Link](https://codeforces.com/problemset/problem/1904/A) |
+| 179 | Getting Points | 1902B | 1100 | [Link](https://codeforces.com/problemset/problem/1902/B) |
+| 180 | Game with Integers | 1899A | 800 | [Link](https://codeforces.com/contest/1899/problem/A) |
+| 181 | Deja Vu | 1891B | 1100 | [Link](https://codeforces.com/problemset/problem/1891/B) |
+| 182 | Sum of Three | 1886A | 800 | [Link](https://codeforces.com/problemset/problem/1886/A) |
+| 183 | Haunted House | 1884B | 1100 | [Link](https://codeforces.com/contest/1884/problem/B) |
+| 184 | Chemistry | 1883B | 900 | [Link](https://codeforces.com/problemset/problem/1883/B) |
+| 185 | Don't Try to Count | 1881A | 800 | [Link](https://codeforces.com/problemset/problem/1881/A) |
+| 186 | How Much Does Daytona Cost? | 1878A | 800 | [Link](https://codeforces.com/problemset/problem/1878/A) |
+| 187 | Goals of Victory | 1877A | 800 | [Link](https://codeforces.com/problemset/problem/1877/A) |
+| 188 | Helmets in Night Light | 1876A | 1000 | [Link](https://codeforces.com/problemset/problem/1876/A) |
+| 189 | Jellyfish and Undertale | 1875A | 900 | [Link](https://codeforces.com/problemset/problem/1875/A) |
+| 190 | Jellyfish and Game | 1874A | 1200 | [Link](https://codeforces.com/problemset/problem/1874/A) |
+| 191 | 2D Traveling | 1869B | 1100 | [Link](https://codeforces.com/problemset/problem/1869/B) |
+| 192 | Make It Zero | 1869A | 900 | [Link](https://codeforces.com/problemset/problem/1869/A) |
+| 193 | green_gold_dog, array and permutation | 1867A | 800 | [Link](https://codeforces.com/contest/1867/problem/A) |
+| 194 | Prime Deletion | 1861A | 800 | [Link](https://codeforces.com/problemset/problem/1861/A) |
+| 195 | Olya and Game with Arrays | 1859B | 1000 | [Link](https://codeforces.com/problemset/problem/1859/B) |
+| 196 | United We Stand | 1859A | 800 | [Link](https://codeforces.com/problemset/problem/1859/A) |
+| 197 | Good Arrays | 1856B | 900 | [Link](https://codeforces.com/contest/1856/problem/B) |
+| 198 | Longest Divisors Interval | 1855B | 900 | [Link](https://codeforces.com/problemset/problem/1855/B) |
+| 199 | Desorting | 1853A | 800 | [Link](https://codeforces.com/contest/1853/problem/A) |
+| 200 | Monsters | 1849B | 1000 | [Link](https://codeforces.com/problemset/problem/1849/B) |
+| 201 | Morning Sandwich | 1849A | 800 | [Link](https://codeforces.com/problemset/problem/1849/A) |
+| 202 | Forbidden Integer | 1845A | 800 | [Link](https://codeforces.com/problemset/problem/1845/A) |
+| 203 | Permutations & Primes | 1844B | 1000 | [Link](https://codeforces.com/problemset/problem/1844/B) |
+| 204 | Game with Board | 1841A | 800 | [Link](https://codeforces.com/contest/1841/problem/A) |
+| 205 | Lamps | 1839B | 1100 | [Link](https://codeforces.com/problemset/problem/1839/B) |
+| 206 | Comparison String | 1837B | 900 | [Link](https://codeforces.com/problemset/problem/1837/B) |
+| 207 | Grasshopper on a Line | 1837A | 800 | [Link](https://codeforces.com/contest/1837/problem/A) |
+| 208 | Unit Array | 1834A | 800 | [Link](https://codeforces.com/contest/1834/problem/A) |
+| 209 | Maximum Sum | 1832B | 1100 | [Link](https://codeforces.com/problemset/problem/1832/B) |
+| 210 | Array merging | 1831B | 1000 | [Link](https://codeforces.com/problemset/problem/1831/B) |
+| 211 | Twin Permutations | 1831A | 800 | [Link](https://codeforces.com/problemset/problem/1831/A) |
+| 212 | Divisible Array | 1828A | 800 | [Link](https://codeforces.com/problemset/problem/1828/A) |
+| 213 | Counting Orders | 1827A | 1100 | [Link](https://codeforces.com/problemset/problem/1827/A) |
+| 214 | Lunatic Never Content | 1826B | 1100 | [Link](https://codeforces.com/problemset/problem/1826/B) |
+| 215 | TubeTube Feed | 1822A | 800 | [Link](https://codeforces.com/problemset/problem/1822/A) |
+| 216 | JoJo's Incredible Adventures | 1820B | 1100 | [Link](https://codeforces.com/problemset/problem/1820/B) |
+| 217 | Grid Reconstruction | 1816B | 1000 | [Link](https://codeforces.com/problemset/problem/1816/B) |
+| 218 | Coins | 1814A | 800 | [Link](https://codeforces.com/problemset/problem/1814/A) |
+| 219 | Conveyor Belts | 1811B | 1000 | [Link](https://codeforces.com/problemset/problem/1811/B) |
+| 220 | Candies | 1810B | 800 | [Link](https://codeforces.com/problemset/problem/1810/B) |
+| 221 | Playing in a Casino | 1808B | 1200 | [Link](https://codeforces.com/problemset/problem/1808/B) |
+| 222 | Walking Master | 1806A | 800 | [Link](https://codeforces.com/problemset/problem/1806/A) |
+| 223 | We Need the Zero | 1805A | 800 | [Link](https://codeforces.com/problemset/problem/1805/A) |
+| 224 | Count the Number of Pairs | 1800B | 1000 | [Link](https://codeforces.com/problemset/problem/1800/B) |
+| 225 | Not Dividing | 1794B | 900 | [Link](https://codeforces.com/problemset/problem/1794/B) |
+| 226 | Fedya and Array | 1793B | 1100 | [Link](https://codeforces.com/problemset/problem/1793/B) |
+| 227 | Serval and Mocha's Array | 1789A | 800 | [Link](https://codeforces.com/problemset/problem/1789/A) |
+| 228 | Number Factorization | 1787B | 1100 | [Link](https://codeforces.com/problemset/problem/1787/B) |
+| 229 | Going to the Cinema | 1781B | 1000 | [Link](https://codeforces.com/contest/1781/problem/B) |
+| 230 | GCD Partition | 1780B | 1100 | [Link](https://codeforces.com/problemset/problem/1780/B) |
+| 231 | Koxia and Permutation | 1770B | 1000 | [Link](https://codeforces.com/contest/1770/problem/B) |
+| 232 | Koxia and Whiteboards | 1770A | 1000 | [Link](https://codeforces.com/problemset/problem/1770/A) |
+| 233 | Notepad# | 1766B | 1000 | [Link](https://codeforces.com/contest/1766/problem/B) |
+| 234 | Extremely Round | 1766A | 800 | [Link](https://codeforces.com/problemset/problem/1766/A) |
+| 235 | Broken Keyboard | 1765B | 800 | [Link](https://codeforces.com/problemset/problem/1765/B) |
+| 236 | Incinerate | 1763B | 1200 | [Link](https://codeforces.com/problemset/problem/1763/B) |
+| 237 | Elimination of a Ring | 1761B | 1000 | [Link](https://codeforces.com/problemset/problem/1761/B) |
+| 238 | Indirect Sort | 1750A | 800 | [Link](https://codeforces.com/contest/1750/problem/A) |
+| 239 | Number Replacement | 1744A | 800 | [Link](https://codeforces.com/problemset/problem/1744/A) |
+| 240 | Playing with GCD | 1736B | 1200 | [Link](https://codeforces.com/problemset/problem/1736/B) |
+| 241 | Bestie | 1732A | 1000 | [Link](https://codeforces.com/problemset/problem/1732/A) |
+| 242 | Kill Demodogs | 1731B | 1100 | [Link](https://codeforces.com/problemset/problem/1731/B) |
+| 243 | Mainak and Array | 1726A | 900 | [Link](https://codeforces.com/problemset/problem/1726/A) |
+| 244 | Basketball Together | 1725B | 1000 | [Link](https://codeforces.com/problemset/problem/1725/B) |
+| 245 | Beautiful Array | 1715B | 1000 | [Link](https://codeforces.com/problemset/problem/1715/B) |
+| 246 | Luke is a Foodie | 1704B | 1000 | [Link](https://codeforces.com/problemset/problem/1704/B) |
+| 247 | NIT Destroys the Universe | 1696B | 900 | [Link](https://codeforces.com/problemset/problem/1696/B) |
+| 248 | Circle Game | 1695B | 1000 | [Link](https://codeforces.com/problemset/problem/1695/B) |
+| 249 | A Perfectly Balanced String? | 1673B | 1100 | [Link](https://codeforces.com/problemset/problem/1673/B) |
+| 250 | Array Cloning Technique | 1665B | 900 | [Link](https://codeforces.com/problemset/problem/1665/B) |
+| 251 | DIV + MOD | 1650B | 900 | [Link](https://codeforces.com/problemset/problem/1650/B) |
+| 252 | Fun with Even Subarrays | 1631B | 1100 | [Link](https://codeforces.com/problemset/problem/1631/B) |
+| 253 | Make AP | 1624B | 900 | [Link](https://codeforces.com/problemset/problem/1624/B) |
+| 254 | Divan and a New Project  | 1614B | 1000 | [Link](https://codeforces.com/problemset/problem/1614/B) |
+| 255 | Kalindrome Array | 1610B | 1100 | [Link](https://codeforces.com/problemset/problem/1610/B) |
+| 256 | Odd Grasshopper | 1607B | 900 | [Link](https://codeforces.com/problemset/problem/1607/B) |
+| 257 | AB Balance | 1606A | 900 | [Link](https://codeforces.com/problemset/problem/1606/A) |
+| 258 | Make it Divisible by 25 | 1593B | 900 | [Link](https://codeforces.com/problemset/problem/1593/B) |
+| 259 | MEXor Mixup | 1567B | 1000 | [Link](https://codeforces.com/problemset/problem/1567/B) |
+| 260 | Mocha and Math | 1559A | 900 | [Link](https://codeforces.com/problemset/problem/1559/A) |
+| 261 | Exciting Bets | 1543A | 900 | [Link](https://codeforces.com/problemset/problem/1543/A) |
+| 262 | Pleasant Pairs | 1541B | 1200 | [Link](https://codeforces.com/problemset/problem/1541/B) |
+| 263 | Bad Boy | 1537B | 900 | [Link](https://codeforces.com/problemset/problem/1537/B) |
+| 264 | Permutation Sort | 1525B | 900 | [Link](https://codeforces.com/problemset/problem/1525/B) |
+| 265 | Nastia and a Good Array | 1521B | 1300 | [Link](https://codeforces.com/problemset/problem/1521/B) |
+| 266 | Flip the Bits | 1504B | 1200 | [Link](https://codeforces.com/problemset/problem/1504/B) |
+| 267 | M-arrays | 1497B | 1200 | [Link](https://codeforces.com/problemset/problem/1497/B) |
+| 268 | Cat Cycle | 1487B | 1200 | [Link](https://codeforces.com/problemset/problem/1487/B) |
+| 269 | Add and Divide | 1485A | 1000 | [Link](https://codeforces.com/problemset/problem/1485/A) |
+| 270 | Searching Local Minimum | 1479A | 1700 | [Link](https://codeforces.com/contest/1479/problem/A) |
+| 271 | Strange Partition | 1471A | 900 | [Link](https://codeforces.com/problemset/problem/1471/A) |
+| 272 | Row GCD | 1458A | 1600 | [Link](https://codeforces.com/problemset/problem/1458/A) |
+| 273 | Buying Torches | 1418A | 1000 | [Link](https://codeforces.com/problemset/problem/1418/A) |
+| 274 | Fair Numbers | 1411B | 1000 | [Link](https://codeforces.com/problemset/problem/1411/B) |
+| 275 | Three Indices | 1380A | 900 | [Link](https://codeforces.com/problemset/problem/1380/A) |
+| 276 | Multiply by 2, divide by 6 | 1374B | 900 | [Link](https://codeforces.com/problemset/problem/1374/B) |
+| 277 | 01 Game | 1373B | 900 | [Link](https://codeforces.com/problemset/problem/1373/B) |
+| 278 | Omkar and Last Class of Math | 1372B | 1300 | [Link](https://codeforces.com/problemset/problem/1372/B) |
+| 279 | Most socially-distanced subsequence | 1364B | 1300 | [Link](https://codeforces.com/contest/1364/problem/B) |
+| 280 | Johnny and Ancient Computer | 1362A | 1000 | [Link](https://codeforces.com/problemset/problem/1362/A) |
+| 281 | Orac and LCM | 1349A | 1600 | [Link](https://codeforces.com/problemset/problem/1349/A) |
+| 282 | Nastya and Door | 1341B | 1300 | [Link](https://codeforces.com/contest/1341/problem/B) |
+| 283 | Sum of Odd Integers | 1327A | 1100 | [Link](https://codeforces.com/contest/1327/problem/A) |
+| 284 | Bogosort | 1312B | 1000 | [Link](https://codeforces.com/problemset/problem/1312/B) |
+| 285 | Just Eat It! | 1285B | 1300 | [Link](https://codeforces.com/problemset/problem/1285/B) |
+| 286 | Heating | 1260A | 1000 | [Link](https://codeforces.com/problemset/problem/1260/A) |
+| 287 | Balanced Tunnel | 1237B | 1300 | [Link](https://codeforces.com/contest/1237/problem/B) |
+| 288 | TV Subscriptions (Hard Version) | 1225B2 | 1300 | [Link](https://codeforces.com/problemset/problem/1225/B2) |
+| 289 | Badges | 1214B | 1100 | [Link](https://codeforces.com/problemset/problem/1214/B) |
+| 290 | Email from Polycarp | 1185B | 1200 | [Link](https://codeforces.com/problemset/problem/1185/B) |
+| 291 | Ehab Fails to Be Thanos | 1174A | 1000 | [Link](https://codeforces.com/problemset/problem/1174/A) |
+| 292 | Reverse a Substring | 1155A | 1000 | [Link](https://codeforces.com/problemset/problem/1155/A) |
+| 293 | Draw! | 1131B | 1400 | [Link](https://codeforces.com/problemset/problem/1131/B) |
+| 294 | Alyona and a Narrow Fridge | 1119B | 1300 | [Link](https://codeforces.com/problemset/problem/1119/B) |
+| 295 | Digits Sequence Dividing | 1107A | 900 | [Link](https://codeforces.com/problemset/problem/1107/A) |
+| 296 | LCM | 1068B | 1200 | [Link](https://codeforces.com/problemset/problem/1068/B) |
+| 297 | Buying a TV Set | 1041B | 1000 | [Link](https://codeforces.com/problemset/problem/1041/B) |
+| 298 | Palindrome Dance | 1040A | 1000 | [Link](https://codeforces.com/problemset/problem/1040/A) |
+| 299 | Non-Coprime Partition | 1038B | 1100 | [Link](https://codeforces.com/problemset/problem/1038/B) |
+| 300 | Packets | 1037A | 1300 | [Link](https://codeforces.com/contest/1037/problem/A) |
+| 301 | New Building for SIS | 1020A | 1000 | [Link](https://codeforces.com/problemset/problem/1020/A) |
+| 302 | Planning The Expedition | 1011B | 1200 | [Link](https://codeforces.com/problemset/problem/1011/B) |
+| 303 | Getting an A | 991B | 900 | [Link](https://codeforces.com/problemset/problem/991/B) |
+| 304 | Row | 982A | 1200 | [Link](https://codeforces.com/problemset/problem/982/A) |
+| 305 | Fafa and the Gates | 935B | 900 | [Link](https://codeforces.com/problemset/problem/935/B) |
+| 306 | Fafa and his Company | 935A | 800 | [Link](https://codeforces.com/problemset/problem/935/A) |
+| 307 | Cloning Toys | 922A | 1300 | [Link](https://codeforces.com/problemset/problem/922/A) |
+| 308 | Divisiblity of Differences | 876B | 1300 | [Link](https://codeforces.com/problemset/problem/876/B) |
+| 309 | Diversity | 844A | 1000 | [Link](https://codeforces.com/problemset/problem/844/A) |
+| 310 | Average Sleep Time | 808B | 1300 | [Link](https://codeforces.com/problemset/problem/808/B) |
+| 311 | k-Factorization | 797A | 1100 | [Link](https://codeforces.com/problemset/problem/797/A) |
+| 312 | Anastasia and pebbles | 789A | 1100 | [Link](https://codeforces.com/problemset/problem/789/A) |
+| 313 | The Monster | 787A | 1200 | [Link](https://codeforces.com/problemset/problem/787/A) |
+| 314 | k-th divisor | 762A | 1400 | [Link](https://codeforces.com/problemset/problem/762/A) |
+| 315 | Chloe and the sequence  | 743B | 1200 | [Link](https://codeforces.com/contest/743/problem/B) |
+| 316 | Vladik and flights | 743A | 1200 | [Link](https://codeforces.com/contest/743/problem/A) |
+| 317 | Anton and Digits | 734B | 800 | [Link](https://codeforces.com/problemset/problem/734/B) |
+| 318 | Jumping Ball | 725A | 1000 | [Link](https://codeforces.com/problemset/problem/725/A) |
+| 319 | Vacations | 698A | 1400 | [Link](https://codeforces.com/problemset/problem/698/A) |
+| 320 | Elephant | 617A | 800 | [Link](https://codeforces.com/contest/617/problem/A) |
+| 321 | New Year and Old Property | 611B | 1300 | [Link](https://codeforces.com/contest/611/problem/B) |
+| 322 | Saitama Destroys Hotel | 608A | 1000 | [Link](https://codeforces.com/problemset/problem/608/A) |
+| 323 | Olesya and Rodion | 584A | 1000 | [Link](https://codeforces.com/contest/584/problem/A) |
+| 324 | Kefa and Company | 580B | 1500 | [Link](https://codeforces.com/problemset/problem/580/B) |
+| 325 | Vasya and Petya's Game | 576A | 1500 | [Link](https://codeforces.com/problemset/problem/576/A) |
+| 326 | Bear and Poker | 573A | 1300 | [Link](https://codeforces.com/contest/573/problem/A) |
+| 327 | Chewbaсca and Number | 514A | 1200 | [Link](https://codeforces.com/contest/514/problem/A) |
+| 328 | Anton and currency you all know | 508B | 1300 | [Link](https://codeforces.com/problemset/problem/508/B) |
+| 329 | Amr and Music | 507A | 1000 | [Link](https://codeforces.com/contest/507/problem/A) |
+| 330 | Modular Equations | 495B | 1600 | [Link](https://codeforces.com/problemset/problem/495/B) |
+| 331 | Bits | 484A | 1700 | [Link](https://codeforces.com/problemset/problem/484/A) |
+| 332 | Dreamoon and Stairs | 476A | 1000 | [Link](https://codeforces.com/problemset/problem/476/A) |
+| 333 | I Wanna Be the Guy | 469A | 800 | [Link](https://codeforces.com/problemset/problem/469/A) |
+| 334 | Appleman and Card Game | 462B | 1300 | [Link](https://codeforces.com/problemset/problem/462/B) |
+| 335 | Pashmak and Flowers | 459B | 1300 | [Link](https://codeforces.com/problemset/problem/459/B) |
+| 336 | Pashmak and Garden | 459A | 1200 | [Link](https://codeforces.com/problemset/problem/459/A) |
+| 337 | Boredom | 455A | 1500 | [Link](https://codeforces.com/problemset/problem/455/a) |
+| 338 | Little Pony and Sort by Shift | 454B | 1200 | [Link](https://codeforces.com/problemset/problem/454/B) |
+| 339 | Jzzhu and Sequences | 450B | 1300 | [Link](https://codeforces.com/problemset/problem/450/B) |
+| 340 | Kitahara Haruki's Gift | 433A | 1100 | [Link](https://codeforces.com/problemset/problem/433/A) |
+| 341 | Megacity | 424B | 1200 | [Link](https://codeforces.com/problemset/problem/424/B) |
+| 342 | Mashmokh and Numbers | 414A | 1500 | [Link](https://codeforces.com/problemset/problem/414/A) |
+| 343 | Fox and Box Accumulation | 388A | 1400 | [Link](https://codeforces.com/contest/388/problem/A) |
+| 344 | New Year Candles | 379A | 1000 | [Link](https://codeforces.com/contest/379/problem/A) |
+| 345 | Fence | 363B | 1100 | [Link](https://codeforces.com/problemset/problem/363/B) |
+| 346 | Levko and Permutation | 361B | 1200 | [Link](https://codeforces.com/contest/361/problem/B) |
+| 347 | TL | 350A | 1200 | [Link](https://codeforces.com/problemset/problem/350/A) |
+| 348 | Alice and Bob | 346A | 1600 | [Link](https://codeforces.com/problemset/problem/346/A) |
+| 349 | Rational Resistance | 343A | 1600 | [Link](https://codeforces.com/problemset/problem/343/A) |
+| 350 | Xenia and Divisors | 342A | 1200 | [Link](https://codeforces.com/problemset/problem/342/A) |
+| 351 | Candy Bags | 334A | 1000 | [Link](https://codeforces.com/problemset/problem/334/A) |
+| 352 | Hungry Sequence | 327B | 1200 | [Link](https://codeforces.com/problemset/problem/327/B) |
+| 353 | Sereja and Bottles | 315A | 1400 | [Link](https://codeforces.com/problemset/problem/315/A) |
+| 354 | Ilya and Queries | 313B | 1100 | [Link](https://codeforces.com/problemset/problem/313/B) |
+| 355 | Yaroslav and Sequence | 301A | 1800 | [Link](https://codeforces.com/problemset/problem/301/A) |
+| 356 | Greg and Array | 295A | 1400 | [Link](https://codeforces.com/problemset/problem/295/A) |
+| 357 | Polo the Penguin and Matrix | 289B | 1400 | [Link](https://codeforces.com/problemset/problem/289/B) |
+| 358 | Books | 279B | 1400 | [Link](https://codeforces.com/contest/279/problem/B) |
+| 359 | Lights Out | 275A | 900 | [Link](https://codeforces.com/problemset/problem/275/A) |
+| 360 | Fancy Fence | 270A | 1100 | [Link](https://codeforces.com/problemset/problem/270/A) |
+| 361 | Stones on the Table | 266A | 800 | [Link](https://codeforces.com/problemset/problem/266/A) |
+| 362 | Adding Digits | 260A | 1400 | [Link](https://codeforces.com/problemset/problem/260/A) |
+| 363 | Cards with Numbers | 254A | 1200 | [Link](https://codeforces.com/problemset/problem/254/A) |
+| 364 | Boys and Girls | 253A | 1100 | [Link](https://codeforces.com/contest/253/problem/A) |
+| 365 | Increase and Decrease | 246B | 1300 | [Link](https://codeforces.com/problemset/problem/246/B) |
+| 366 | Two Bags of Potatoes | 239A | 1200 | [Link](https://codeforces.com/problemset/problem/239/A) |
+| 367 | Easy Number Challenge | 236B | 1300 | [Link](https://codeforces.com/problemset/problem/236/B) |
+| 368 | Little Elephant and Problem | 220A | 1300 | [Link](https://codeforces.com/contest/220/problem/A) |
+| 369 | Cut Ribbon | 189A | 1300 | [Link](https://codeforces.com/problemset/problem/189/A) |
+| 370 | Phone Code | 172A | 800 | [Link](https://codeforces.com/problemset/problem/172/A) |
+| 371 | Burning Midnight Oil | 165B | 1500 | [Link](https://codeforces.com/contest/165/problem/B) |
+| 372 | Colliders | 154B | 1600 | [Link](https://codeforces.com/problemset/problem/154/B) |
+| 373 | Cifera | 114A | 1000 | [Link](https://codeforces.com/contest/114/problem/A) |
+| 374 | Testing Pants for Sadness | 103A | 1100 | [Link](https://codeforces.com/problemset/problem/103/A) |
+| 375 | Magical Array | 83A | 1300 | [Link](https://codeforces.com/problemset/problem/83/A) |
+| 376 | Petya and Countryside | 66B | 1100 | [Link](https://codeforces.com/problemset/problem/66/B) |
+| 377 | Where Are My Flakes? | 60A | 1300 | [Link](https://codeforces.com/contest/60/problem/A) |
+| 378 | Bar | 56A | 1000 | [Link](https://codeforces.com/problemset/problem/56/A) |
+| 379 | Reconnaissance | 32A | 800 | [Link](https://codeforces.com/problemset/problem/32/A) |
+| 380 | Worms Evolution | 31A | 1200 | [Link](https://codeforces.com/problemset/problem/31/A) |
+| 381 | Almost Prime | 26A | 900 | [Link](https://codeforces.com/contest/26/problem/A) |
+| 382 | Watermelon | 4A | 800 | [Link](https://codeforces.com/problemset/problem/4/A) |
 <!-- AUTO-GENERATED:END -->
 
 ---
