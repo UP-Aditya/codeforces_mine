@@ -1,8 +1,8 @@
 {
-  "day_counter": 76,
-  "total_uploaded": 377,
-  "last_run": "2026-10-01T22:01:31.159433",
-  "last_commit_hash": "0369ee4c827e2efb721c0ca9556970f810da2f14",
+  "day_counter": 77,
+  "total_uploaded": 382,
+  "last_run": "2026-10-03T23:09:34.428886",
+  "last_commit_hash": "d0b30c52581756df640cfd07ed0bb0670a703dfc",
   "uploaded_problems": {
     "2207A": {
       "name": "1-1",
@@ -4150,1880 +4150,1935 @@
       "folder": "1200",
       "upload_date": "2026-10-01",
       "day": 76
+    },
+    "1808B": {
+      "name": "Playing in a Casino",
+      "contest_id": 1808,
+      "index": "B",
+      "rating": 1200,
+      "url": "https://codeforces.com/problemset/problem/1808/B",
+      "filename": "1200\\1808B - Playing in a Casino.cpp",
+      "folder": "1200",
+      "upload_date": "2026-10-03",
+      "day": 77
+    },
+    "1736B": {
+      "name": "Playing with GCD",
+      "contest_id": 1736,
+      "index": "B",
+      "rating": 1200,
+      "url": "https://codeforces.com/problemset/problem/1736/B",
+      "filename": "1200\\1736B - Playing with GCD.cpp",
+      "folder": "1200",
+      "upload_date": "2026-10-03",
+      "day": 77
+    },
+    "1541B": {
+      "name": "Pleasant Pairs",
+      "contest_id": 1541,
+      "index": "B",
+      "rating": 1200,
+      "url": "https://codeforces.com/problemset/problem/1541/B",
+      "filename": "1200\\1541B - Pleasant Pairs.cpp",
+      "folder": "1200",
+      "upload_date": "2026-10-03",
+      "day": 77
+    },
+    "1919B": {
+      "name": "Plus-Minus Split",
+      "contest_id": 1919,
+      "index": "B",
+      "rating": 800,
+      "url": "https://codeforces.com/problemset/problem/1919/B",
+      "filename": "800\\1919B - Plus-Minus Split.cpp",
+      "folder": "800",
+      "upload_date": "2026-10-03",
+      "day": 77
+    },
+    "289B": {
+      "name": "Polo the Penguin and Matrix",
+      "contest_id": 289,
+      "index": "B",
+      "rating": 1400,
+      "url": "https://codeforces.com/problemset/problem/289/B",
+      "filename": "1400\\289B - Polo the Penguin and Matrix.cpp",
+      "folder": "1400",
+      "upload_date": "2026-10-03",
+      "day": 77
     }
   },
   "pending_unresolved": {
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\1343c.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.123176"
+      "last_seen": "2026-10-03T23:09:16.600154"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\16_9.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc463/tasks/abc463_a",
-      "last_seen": "2026-10-01T22:00:36.124189"
+      "last_seen": "2026-10-03T23:09:16.600154"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\1mit.cpp": {
       "reason": "unparseable URL: c:\\Users\\chaha\\Desktop\\DSA\\CF Problems\\1mit.cpp",
-      "last_seen": "2026-10-01T22:00:36.124189"
+      "last_seen": "2026-10-03T23:09:16.600154"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\1moh.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.151196"
+      "last_seen": "2026-10-03T23:09:16.627335"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\2mit.cpp": {
       "reason": "unparseable URL: c:\\Users\\chaha\\Desktop\\DSA\\CF Problems\\2mit.cpp",
-      "last_seen": "2026-10-01T22:00:36.152191"
+      "last_seen": "2026-10-03T23:09:16.631625"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\456.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc456/tasks/abc456_b",
-      "last_seen": "2026-10-01T22:00:36.152191"
+      "last_seen": "2026-10-03T23:09:16.631625"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\459.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.177174"
+      "last_seen": "2026-10-03T23:09:16.655184"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\AB_or_C.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START233C/problems/ABC7",
-      "last_seen": "2026-10-01T22:00:36.177174"
+      "last_seen": "2026-10-03T23:09:16.655184"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Accomplice.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc462/tasks/abc462_d",
-      "last_seen": "2026-10-01T22:00:36.178175"
+      "last_seen": "2026-10-03T23:09:16.655184"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Add_1_or_3.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START217C/problems/ADD13",
-      "last_seen": "2026-10-01T22:00:36.178175"
+      "last_seen": "2026-10-03T23:09:16.655184"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Add_to_make_Positive.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START217C/problems/ADDPOS",
-      "last_seen": "2026-10-01T22:00:36.180180"
+      "last_seen": "2026-10-03T23:09:16.657195"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Adjacent_Sums.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START207C/problems/ADJSUM",
-      "last_seen": "2026-10-01T22:00:36.180180"
+      "last_seen": "2026-10-03T23:09:16.657195"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Aggressive_cows.cpp": {
       "reason": "unparseable URL: https://www.spoj.com/problems/AGGRCOW/",
-      "last_seen": "2026-10-01T22:00:36.181308"
+      "last_seen": "2026-10-03T23:09:16.657195"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Amazing_Auction.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START245C/problems/AMAZAUC",
-      "last_seen": "2026-10-01T22:00:36.182754"
+      "last_seen": "2026-10-03T23:09:16.659204"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\amu.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.207822"
+      "last_seen": "2026-10-03T23:09:16.680656"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\AND_OR_Conversion_1.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/problems/ANDOR1",
-      "last_seen": "2026-10-01T22:00:36.208834"
+      "last_seen": "2026-10-03T23:09:16.680656"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\AND_OR_Conversion_2.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START244C/problems/ANDOR2",
-      "last_seen": "2026-10-01T22:00:36.208834"
+      "last_seen": "2026-10-03T23:09:16.682903"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Append_Average.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START196C/problems/AVGAPP",
-      "last_seen": "2026-10-01T22:00:36.209828"
+      "last_seen": "2026-10-03T23:09:16.682903"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Apple_Division.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1623",
-      "last_seen": "2026-10-01T22:00:36.210832"
+      "last_seen": "2026-10-03T23:09:16.684913"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Arrays.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc457/tasks/abc457_b",
-      "last_seen": "2026-10-01T22:00:36.210832"
+      "last_seen": "2026-10-03T23:09:16.686934"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Array_Division.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1085",
-      "last_seen": "2026-10-01T22:00:36.212338"
+      "last_seen": "2026-10-03T23:09:16.686934"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_2_n_2_n.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.238971"
+      "last_seen": "2026-10-03T23:09:16.717304"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_455.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc455/tasks/abc455_a",
-      "last_seen": "2026-10-01T22:00:36.243018"
+      "last_seen": "2026-10-03T23:09:16.719305"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_ABC_AC.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc427/tasks/abc427_a",
-      "last_seen": "2026-10-01T22:00:36.244021"
+      "last_seen": "2026-10-03T23:09:16.721761"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Add_or_XOR.cpp": {
       "reason": "problem 21190 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:36.247019"
+      "last_seen": "2026-10-03T23:09:16.724645"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Alyona_and_Numbers.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.275480"
+      "last_seen": "2026-10-03T23:09:16.752477"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Ambitious_Kid.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.297806"
+      "last_seen": "2026-10-03T23:09:16.778006"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Ancient_City.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/642908/problem/A",
-      "last_seen": "2026-10-01T22:00:36.300838"
+      "last_seen": "2026-10-03T23:09:16.782404"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Array_with_Odd_Sum.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.327852"
+      "last_seen": "2026-10-03T23:09:16.814893"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_AtCoder_Language.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc419/tasks/abc419_a",
-      "last_seen": "2026-10-01T22:00:36.328873"
+      "last_seen": "2026-10-03T23:09:16.814893"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_AvtoBus.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.355565"
+      "last_seen": "2026-10-03T23:09:16.848641"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_A_B.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.380805"
+      "last_seen": "2026-10-03T23:09:16.880974"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_A_B_Again.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.407043"
+      "last_seen": "2026-10-03T23:09:16.901421"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_A_Substring.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc417/tasks/abc417_a",
-      "last_seen": "2026-10-01T22:00:36.410094"
+      "last_seen": "2026-10-03T23:09:16.905961"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Binary_Array_Game.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.443288"
+      "last_seen": "2026-10-03T23:09:16.955597"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Binary_Search.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A",
-      "last_seen": "2026-10-01T22:00:36.444294"
+      "last_seen": "2026-10-03T23:09:16.957603"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Blackboard_Game.cpp": {
       "reason": "problem 21230 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:36.447278"
+      "last_seen": "2026-10-03T23:09:16.957603"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Black_Square.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.474277"
+      "last_seen": "2026-10-03T23:09:16.980556"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Calculating_Function.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.507759"
+      "last_seen": "2026-10-03T23:09:17.002332"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Candy_Cookie_Law.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc430/tasks/abc430_a",
-      "last_seen": "2026-10-01T22:00:36.510754"
+      "last_seen": "2026-10-03T23:09:17.004450"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Case_of_the_Zeros_and_Ones.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.542034"
+      "last_seen": "2026-10-03T23:09:17.023977"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Cheap_Travel.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.566259"
+      "last_seen": "2026-10-03T23:09:17.041184"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Closed_interval.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc454/tasks/abc454_a",
-      "last_seen": "2026-10-01T22:00:36.575805"
+      "last_seen": "2026-10-03T23:09:17.049652"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_COD_1.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/632608/problem/0",
-      "last_seen": "2026-10-01T22:00:36.577885"
+      "last_seen": "2026-10-03T23:09:17.051341"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_conjecture_of_Paul_Erdos.cpp": {
       "reason": "unparseable URL: c:\\Users\\chaha\\Desktop\\DSA\\CF Problems\\A_conjecture_of_Paul_Erdos.cpp",
-      "last_seen": "2026-10-01T22:00:36.581790"
+      "last_seen": "2026-10-03T23:09:17.055133"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Costly_Divisibility.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/670769/problem/A",
-      "last_seen": "2026-10-01T22:00:36.587899"
+      "last_seen": "2026-10-03T23:09:17.057764"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Count.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc442/tasks/abc442_a",
-      "last_seen": "2026-10-01T22:00:36.589898"
+      "last_seen": "2026-10-03T23:09:17.059772"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Cover_in_Water.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.617448"
+      "last_seen": "2026-10-03T23:09:17.085024"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Cut_the_Array.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.643437"
+      "last_seen": "2026-10-03T23:09:17.105942"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Deranged_Deletions.cpp": {
       "reason": "problem 21240 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:36.647441"
+      "last_seen": "2026-10-03T23:09:17.107949"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Design_Tutorial_Learn_from_Math.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.672439"
+      "last_seen": "2026-10-03T23:09:17.135729"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Dislike_of_Threes.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.706821"
+      "last_seen": "2026-10-03T23:09:17.200426"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Divisibility_Problem.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.736940"
+      "last_seen": "2026-10-03T23:09:17.253163"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Domino.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.763944"
+      "last_seen": "2026-10-03T23:09:17.274803"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Doremy_s_Paint_3.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.791693"
+      "last_seen": "2026-10-03T23:09:17.325698"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Draw_a_Square.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.817700"
+      "last_seen": "2026-10-03T23:09:17.366203"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Equal_Subsequences.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.866928"
+      "last_seen": "2026-10-03T23:09:17.415202"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Even_Odds.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.899924"
+      "last_seen": "2026-10-03T23:09:17.436077"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Everybody_Likes_Good_Arrays.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.921938"
+      "last_seen": "2026-10-03T23:09:17.454319"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Expression.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:36.947932"
+      "last_seen": "2026-10-03T23:09:17.475339"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_False_Alarm.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.044204"
+      "last_seen": "2026-10-03T23:09:17.497166"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Fashionable_Array.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.069198"
+      "last_seen": "2026-10-03T23:09:17.569444"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Fibonacciness.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.094390"
+      "last_seen": "2026-10-03T23:09:17.592504"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Fibonacci_I.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/663101/problem/A",
-      "last_seen": "2026-10-01T22:00:37.096440"
+      "last_seen": "2026-10-03T23:09:17.598050"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Galactic_Fleet_Assembly.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/693654/problem/A",
-      "last_seen": "2026-10-01T22:00:37.110104"
+      "last_seen": "2026-10-03T23:09:17.627008"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Game_is_Game.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/675631/problem/A",
-      "last_seen": "2026-10-01T22:00:37.114091"
+      "last_seen": "2026-10-03T23:09:17.633327"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Game_With_Sticks.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.143090"
+      "last_seen": "2026-10-03T23:09:17.655474"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Gellyfish_and_Tricolor_Pansy.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.168092"
+      "last_seen": "2026-10-03T23:09:17.674122"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_George_and_Accommodation.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.193316"
+      "last_seen": "2026-10-03T23:09:17.693229"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Get_together.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/A",
-      "last_seen": "2026-10-01T22:00:37.195266"
+      "last_seen": "2026-10-03T23:09:17.693229"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Grandma_s_Footsteps.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc428/tasks/abc428_a",
-      "last_seen": "2026-10-01T22:00:37.200268"
+      "last_seen": "2026-10-03T23:09:17.701213"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Gravity_Flip.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.228267"
+      "last_seen": "2026-10-03T23:09:17.727924"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Greedy_Grid.cpp": {
       "reason": "problem 21220 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:37.230271"
+      "last_seen": "2026-10-03T23:09:17.749399"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Halloumi_Boxes.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.259265"
+      "last_seen": "2026-10-03T23:09:17.778108"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Holiday_Of_Equality.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.289931"
+      "last_seen": "2026-10-03T23:09:17.808656"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Homework.cpp": {
       "reason": "problem 21320 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:37.292935"
+      "last_seen": "2026-10-03T23:09:17.810667"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Indian_Summer.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.319929"
+      "last_seen": "2026-10-03T23:09:17.847110"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Insomnia_cure.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.346950"
+      "last_seen": "2026-10-03T23:09:17.877734"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_In_Search_of_an_Easy_Problem.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.372598"
+      "last_seen": "2026-10-03T23:09:17.918790"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_IQ_test.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.400604"
+      "last_seen": "2026-10-03T23:09:17.943514"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Is_your_horseshoe_on_the_other_hoof.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.449941"
+      "last_seen": "2026-10-03T23:09:17.993471"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_It_s_Time_To_Duel.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.474950"
+      "last_seen": "2026-10-03T23:09:18.015807"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Jagged_Swaps.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.502130"
+      "last_seen": "2026-10-03T23:09:18.034526"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Kefa_and_First_Steps.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.560817"
+      "last_seen": "2026-10-03T23:09:18.059312"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Line_Trip.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.614897"
+      "last_seen": "2026-10-03T23:09:18.094827"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Little_Fairy_s_Painting.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.646295"
+      "last_seen": "2026-10-03T23:09:18.114750"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Looped_Playlist.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/A",
-      "last_seen": "2026-10-01T22:00:37.650712"
+      "last_seen": "2026-10-03T23:09:18.115352"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Love_Story.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.686550"
+      "last_seen": "2026-10-03T23:09:18.133594"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Lucky_Division.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.710265"
+      "last_seen": "2026-10-03T23:09:18.154514"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Magnets.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.748820"
+      "last_seen": "2026-10-03T23:09:18.174656"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Make_it_Beautiful.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.791223"
+      "last_seen": "2026-10-03T23:09:18.196985"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Marathon.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.835640"
+      "last_seen": "2026-10-03T23:09:18.249351"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Marisa_Steals_Reimu_s_Takeout.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.863352"
+      "last_seen": "2026-10-03T23:09:18.271614"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Maximize.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.894349"
+      "last_seen": "2026-10-03T23:09:18.290876"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Maximum_Average_Segment.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/A",
-      "last_seen": "2026-10-01T22:00:37.896401"
+      "last_seen": "2026-10-03T23:09:18.292882"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Maximum_Subarray.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/633827/problem/A",
-      "last_seen": "2026-10-01T22:00:37.902399"
+      "last_seen": "2026-10-03T23:09:18.297773"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Medium_Number.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.929402"
+      "last_seen": "2026-10-03T23:09:18.317360"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Merging_Arrays.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A",
-      "last_seen": "2026-10-01T22:00:37.932531"
+      "last_seen": "2026-10-03T23:09:18.317360"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Minimal_Coprime.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.967332"
+      "last_seen": "2026-10-03T23:09:18.335122"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Misdelivery.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc421/tasks/abc421_a",
-      "last_seen": "2026-10-01T22:00:37.971302"
+      "last_seen": "2026-10-03T23:09:18.337131"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Modular_Station_Assembly.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/677155/problem/A",
-      "last_seen": "2026-10-01T22:00:37.992294"
+      "last_seen": "2026-10-03T23:09:18.342868"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_New_World_New_Me_New_Array.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.090779"
+      "last_seen": "2026-10-03T23:09:18.365787"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_New_Year_and_Hurry.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.115301"
+      "last_seen": "2026-10-03T23:09:18.382522"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Octave.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc440/tasks/abc440_a",
-      "last_seen": "2026-10-01T22:00:38.131296"
+      "last_seen": "2026-10-03T23:09:18.391628"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Odd_Set.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.161296"
+      "last_seen": "2026-10-03T23:09:18.412176"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_One_and_Two.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.190301"
+      "last_seen": "2026-10-03T23:09:18.452066"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Only_One_Digit.cpp": {
       "reason": "problem 21260 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:38.193301"
+      "last_seen": "2026-10-03T23:09:18.467063"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Optimal_Purchase.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.221612"
+      "last_seen": "2026-10-03T23:09:18.503542"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_OS_Versions.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc426/tasks/abc426_a",
-      "last_seen": "2026-10-01T22:00:38.227611"
+      "last_seen": "2026-10-03T23:09:18.509544"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Permutation.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/656427/problem/A",
-      "last_seen": "2026-10-01T22:00:38.251593"
+      "last_seen": "2026-10-03T23:09:18.534493"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Permutation_Warm_Up.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.276588"
+      "last_seen": "2026-10-03T23:09:18.556313"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Presents.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.311589"
+      "last_seen": "2026-10-03T23:09:18.583556"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Puzzles.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.342602"
+      "last_seen": "2026-10-03T23:09:18.615925"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Race.cpp": {
       "reason": "problem 21120 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:38.346601"
+      "last_seen": "2026-10-03T23:09:18.619941"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Raising_Bacteria.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.370446"
+      "last_seen": "2026-10-03T23:09:18.649094"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Red_Versus_Blue.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.402436"
+      "last_seen": "2026-10-03T23:09:18.693573"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Remove_Smallest.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.429432"
+      "last_seen": "2026-10-03T23:09:18.757678"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Repdigit.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc444/tasks/abc444_a",
-      "last_seen": "2026-10-01T22:00:38.432425"
+      "last_seen": "2026-10-03T23:09:18.767677"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Required_Remainder.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.457435"
+      "last_seen": "2026-10-03T23:09:18.792657"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Restoring_Three_Numbers.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.484475"
+      "last_seen": "2026-10-03T23:09:18.813515"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Road_To_Zero.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.511462"
+      "last_seen": "2026-10-03T23:09:18.846854"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Segment_with_Small_Sum.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A",
-      "last_seen": "2026-10-01T22:00:38.532571"
+      "last_seen": "2026-10-03T23:09:18.872286"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Sereja_and_Dima.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.562614"
+      "last_seen": "2026-10-03T23:09:19.002272"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Shashliks.cpp": {
       "reason": "problem 21130 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:38.569670"
+      "last_seen": "2026-10-03T23:09:19.008037"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Skibidus_and_Amog_u.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.618338"
+      "last_seen": "2026-10-03T23:09:19.051100"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Sleeping_Through_Classes.cpp": {
       "reason": "problem 21730 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:38.623341"
+      "last_seen": "2026-10-03T23:09:19.055409"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Slimes_on_a_Line.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.648343"
+      "last_seen": "2026-10-03T23:09:19.082984"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Soft_Drinking.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.677256"
+      "last_seen": "2026-10-03T23:09:19.104647"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Spell_Check.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.708623"
+      "last_seen": "2026-10-03T23:09:19.167569"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Square_Year.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.743586"
+      "last_seen": "2026-10-03T23:09:19.238299"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Stage_Clear.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc422/tasks/abc422_a",
-      "last_seen": "2026-10-01T22:00:38.747588"
+      "last_seen": "2026-10-03T23:09:19.246760"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_String_Harmonization_Game.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/684550/problem/A",
-      "last_seen": "2026-10-01T22:00:38.757582"
+      "last_seen": "2026-10-03T23:09:19.314986"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Strong_Word.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc445/tasks/abc445_a",
-      "last_seen": "2026-10-01T22:00:38.761358"
+      "last_seen": "2026-10-03T23:09:19.316986"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Submission_is_All_You_Need.cpp": {
       "reason": "problem 21300 not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:38.771871"
+      "last_seen": "2026-10-03T23:09:19.325985"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Sum_of_Round_Numbers.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.799895"
+      "last_seen": "2026-10-03T23:09:19.356926"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_The_Balanced_Magnet.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/680419/problem/A",
-      "last_seen": "2026-10-01T22:00:38.816323"
+      "last_seen": "2026-10-03T23:09:19.377292"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_The_Bento_Box_Adventure.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.839392"
+      "last_seen": "2026-10-03T23:09:19.401882"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_The_Dual_Core_Conflict.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/662818/problem/A",
-      "last_seen": "2026-10-01T22:00:38.843398"
+      "last_seen": "2026-10-03T23:09:19.406566"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_The_Flayer_s_Gaze.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/671059/problem/A",
-      "last_seen": "2026-10-01T22:00:38.849918"
+      "last_seen": "2026-10-03T23:09:19.413386"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_The_New_Year_Meeting_Friends.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.878458"
+      "last_seen": "2026-10-03T23:09:19.439493"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_The_Overclocking_Paradox.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/690879/problem/A",
-      "last_seen": "2026-10-01T22:00:38.883461"
+      "last_seen": "2026-10-03T23:09:19.444016"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_The_Play_Never_Ends.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.906508"
+      "last_seen": "2026-10-03T23:09:19.469574"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_The_Square_Free_Trap.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/697296/problem/A",
-      "last_seen": "2026-10-01T22:00:38.910507"
+      "last_seen": "2026-10-03T23:09:19.473591"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Too_Many_Requests.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc429/tasks/abc429_a",
-      "last_seen": "2026-10-01T22:00:38.920524"
+      "last_seen": "2026-10-03T23:09:19.490286"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Tram.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.947504"
+      "last_seen": "2026-10-03T23:09:19.525803"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Trimo.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc453/tasks/abc453_a",
-      "last_seen": "2026-10-01T22:00:38.955487"
+      "last_seen": "2026-10-03T23:09:19.536288"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Twins.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:38.983491"
+      "last_seen": "2026-10-03T23:09:19.570207"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Two_Elevators.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.017751"
+      "last_seen": "2026-10-03T23:09:19.636269"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Two_Permutations.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.039126"
+      "last_seen": "2026-10-03T23:09:19.669699"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Vasya_the_Hipster.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.111332"
+      "last_seen": "2026-10-03T23:09:19.709856"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Whispers_of_the_Binary_Gods.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/654194/problem/A",
-      "last_seen": "2026-10-01T22:00:39.138559"
+      "last_seen": "2026-10-03T23:09:19.735370"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Winner.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.162559"
+      "last_seen": "2026-10-03T23:09:19.761541"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Wrong_Subtraction.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.195564"
+      "last_seen": "2026-10-03T23:09:19.798873"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_XORwice.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.222929"
+      "last_seen": "2026-10-03T23:09:19.825965"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_π.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc449/tasks/abc449_a",
-      "last_seen": "2026-10-01T22:00:39.239451"
+      "last_seen": "2026-10-03T23:09:19.849864"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Binary_Construction.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START234C/problems/BINCON",
-      "last_seen": "2026-10-01T22:00:39.244454"
+      "last_seen": "2026-10-03T23:09:19.854513"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Binary_Love.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START209C/problems/P5209",
-      "last_seen": "2026-10-01T22:00:39.248452"
+      "last_seen": "2026-10-03T23:09:19.858523"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Binary_Smile.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START240C/problems/RVBS",
-      "last_seen": "2026-10-01T22:00:39.252359"
+      "last_seen": "2026-10-03T23:09:19.863809"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Bit_Strings.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1617",
-      "last_seen": "2026-10-01T22:00:39.256412"
+      "last_seen": "2026-10-03T23:09:19.867067"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\boiler.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.281358"
+      "last_seen": "2026-10-03T23:09:19.882173"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_1_The_Strict_Teacher_Easy_Version.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.312706"
+      "last_seen": "2026-10-03T23:09:19.905438"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Absolute_Cinema.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.363558"
+      "last_seen": "2026-10-03T23:09:19.938663"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Alice_and_the_Grid_Walk.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/662818/problem/B",
-      "last_seen": "2026-10-01T22:00:39.373549"
+      "last_seen": "2026-10-03T23:09:19.946980"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_AND_0_Sum_Big.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.403167"
+      "last_seen": "2026-10-03T23:09:19.969742"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_AND_Sorting.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.431159"
+      "last_seen": "2026-10-03T23:09:19.990302"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Binary_String_Proximity.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/650142/problem/B",
-      "last_seen": "2026-10-01T22:00:39.555516"
+      "last_seen": "2026-10-03T23:09:20.085070"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Blank_Space.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.586414"
+      "last_seen": "2026-10-03T23:09:20.106256"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Borze.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.616925"
+      "last_seen": "2026-10-03T23:09:20.131797"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Buttons.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.666713"
+      "last_seen": "2026-10-03T23:09:20.163265"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Buying_Lemonade.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.699296"
+      "last_seen": "2026-10-03T23:09:20.185511"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Card_Game.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.737305"
+      "last_seen": "2026-10-03T23:09:20.213236"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Center_Alignment.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc445/tasks/abc445_b",
-      "last_seen": "2026-10-01T22:00:39.758301"
+      "last_seen": "2026-10-03T23:09:20.228433"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Chef_and_Chefu.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/642908/problem/B",
-      "last_seen": "2026-10-01T22:00:39.767312"
+      "last_seen": "2026-10-03T23:09:20.237307"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Closest_to_the_Left.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B",
-      "last_seen": "2026-10-01T22:00:39.787312"
+      "last_seen": "2026-10-03T23:09:20.250510"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_COD_2.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/632608/problem/B",
-      "last_seen": "2026-10-01T22:00:39.791304"
+      "last_seen": "2026-10-03T23:09:20.253838"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Count_Subgrid.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc430/tasks/abc430_b",
-      "last_seen": "2026-10-01T22:00:39.820768"
+      "last_seen": "2026-10-03T23:09:20.274070"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Deconstruct_Chocolate.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc449/tasks/abc449_b",
-      "last_seen": "2026-10-01T22:00:39.843282"
+      "last_seen": "2026-10-03T23:09:20.290195"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Diagonal_Deployment_Easy_Version.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/686424/problem/B",
-      "last_seen": "2026-10-01T22:00:39.853330"
+      "last_seen": "2026-10-03T23:09:20.301976"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Digit_String.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.880157"
+      "last_seen": "2026-10-03T23:09:20.322474"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Digit_Sum.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc444/tasks/abc444_b",
-      "last_seen": "2026-10-01T22:00:39.884476"
+      "last_seen": "2026-10-03T23:09:20.326524"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Draw copy.cpp": {
       "reason": "unparseable URL: c:\\Users\\chaha\\Desktop\\DSA\\CF Problems\\B_Draw copy.cpp",
-      "last_seen": "2026-10-01T22:00:39.911830"
+      "last_seen": "2026-10-03T23:09:20.349661"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Drinks.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.947189"
+      "last_seen": "2026-10-03T23:09:20.378183"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Erase_First_or_Second_Letter.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:39.992073"
+      "last_seen": "2026-10-03T23:09:20.406780"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Escaping_Starcourt.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/671059/problem/B",
-      "last_seen": "2026-10-01T22:00:39.998070"
+      "last_seen": "2026-10-03T23:09:20.411791"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Fibonacci_Cubes.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.052309"
+      "last_seen": "2026-10-03T23:09:20.450199"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Fibonacci_Reversed.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc421/tasks/abc421_b",
-      "last_seen": "2026-10-01T22:00:40.055309"
+      "last_seen": "2026-10-03T23:09:20.453803"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Flip_or_Flop.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/680419/problem/B",
-      "last_seen": "2026-10-01T22:00:40.065309"
+      "last_seen": "2026-10-03T23:09:20.463267"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Forbidden_OR.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/690879/problem/B",
-      "last_seen": "2026-10-01T22:00:40.103952"
+      "last_seen": "2026-10-03T23:09:20.479368"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Fortune_Telling.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.138448"
+      "last_seen": "2026-10-03T23:09:20.501800"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Gellyfish_and_Baby_s_Breath.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.196743"
+      "last_seen": "2026-10-03T23:09:20.541405"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Grab_the_Candies.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.243344"
+      "last_seen": "2026-10-03T23:09:20.589022"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Hakurei_Shrine_s_Purification_Ritual.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/675631/problem/B",
-      "last_seen": "2026-10-01T22:00:40.255333"
+      "last_seen": "2026-10-03T23:09:20.597463"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Happy_Number.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.282336"
+      "last_seen": "2026-10-03T23:09:20.616840"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Increasing.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.355194"
+      "last_seen": "2026-10-03T23:09:20.672832"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Interesting_drink.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.382192"
+      "last_seen": "2026-10-03T23:09:20.691947"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Johnny_and_His_Hobbies.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.406794"
+      "last_seen": "2026-10-03T23:09:20.711689"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_K_Sort.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.475033"
+      "last_seen": "2026-10-03T23:09:20.767548"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Looped_Rope.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc422/tasks/abc422_b",
-      "last_seen": "2026-10-01T22:00:40.530250"
+      "last_seen": "2026-10-03T23:09:20.816408"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Luntik_and_Subsequences.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.565307"
+      "last_seen": "2026-10-03T23:09:20.842284"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Make_It_Increasing.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.605815"
+      "last_seen": "2026-10-03T23:09:20.875394"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Make_It_Permutation.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.631866"
+      "last_seen": "2026-10-03T23:09:20.894855"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Mapping.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc454/tasks/abc454_b",
-      "last_seen": "2026-10-01T22:00:40.649089"
+      "last_seen": "2026-10-03T23:09:20.909886"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Maximum_Cost_Permutation.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.681094"
+      "last_seen": "2026-10-03T23:09:20.936589"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Mex_Min.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/633827/problem/B",
-      "last_seen": "2026-10-01T22:00:40.713743"
+      "last_seen": "2026-10-03T23:09:20.961074"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Most_Frequent_Substrings.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc428/tasks/abc428_b",
-      "last_seen": "2026-10-01T22:00:40.761666"
+      "last_seen": "2026-10-03T23:09:21.006032"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Move_and_Turn.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.790656"
+      "last_seen": "2026-10-03T23:09:21.034969"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Music_Player.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc442/tasks/abc442_b",
-      "last_seen": "2026-10-01T22:00:40.816033"
+      "last_seen": "2026-10-03T23:09:21.053279"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Nearest_Taller.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc433/tasks/abc433_b",
-      "last_seen": "2026-10-01T22:00:40.842146"
+      "last_seen": "2026-10-03T23:09:21.072619"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Nirvana.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.912690"
+      "last_seen": "2026-10-03T23:09:21.133115"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Not_Quite_a_Palindromic_String.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.960886"
+      "last_seen": "2026-10-03T23:09:21.172036"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Number_of_Smaller.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B",
-      "last_seen": "2026-10-01T22:00:40.977973"
+      "last_seen": "2026-10-03T23:09:21.188689"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_N_1.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc429/tasks/abc429_b",
-      "last_seen": "2026-10-01T22:00:40.985050"
+      "last_seen": "2026-10-03T23:09:21.193285"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Parity_of_Divisors.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/669087/problem/B",
-      "last_seen": "2026-10-01T22:00:41.036781"
+      "last_seen": "2026-10-03T23:09:21.240595"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Permutation_Swap.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.124052"
+      "last_seen": "2026-10-03T23:09:21.300497"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Pushing_Balls.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.240373"
+      "last_seen": "2026-10-03T23:09:21.387431"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Remilia_Plays_Soku.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.296603"
+      "last_seen": "2026-10-03T23:09:21.431754"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Removals_Game.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.320621"
+      "last_seen": "2026-10-03T23:09:21.454780"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Rock_and_Lever.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.392836"
+      "last_seen": "2026-10-03T23:09:21.511307"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Ropes.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B",
-      "last_seen": "2026-10-01T22:00:41.405837"
+      "last_seen": "2026-10-03T23:09:21.523283"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Sale.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.446840"
+      "last_seen": "2026-10-03T23:09:21.585608"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Search_and_Delete.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc417/tasks/abc417_b",
-      "last_seen": "2026-10-01T22:00:41.453937"
+      "last_seen": "2026-10-03T23:09:21.590429"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Segment_with_Big_Sum.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B",
-      "last_seen": "2026-10-01T22:00:41.468481"
+      "last_seen": "2026-10-03T23:09:21.600555"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Sensor_Data_Logging.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc453/tasks/abc453_b",
-      "last_seen": "2026-10-01T22:00:41.474582"
+      "last_seen": "2026-10-03T23:09:21.606579"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Sereja_and_Suffixes.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.506485"
+      "last_seen": "2026-10-03T23:09:21.631759"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Shifts_and_Sorting.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.550103"
+      "last_seen": "2026-10-03T23:09:21.671096"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Shrink.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.587409"
+      "last_seen": "2026-10-03T23:09:21.720761"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Spiral_Galaxy.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc455/tasks/abc455_b",
-      "last_seen": "2026-10-01T22:00:41.652047"
+      "last_seen": "2026-10-03T23:09:21.778171"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Splitting_an_Array.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/B",
-      "last_seen": "2026-10-01T22:00:41.665037"
+      "last_seen": "2026-10-03T23:09:21.787411"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_String_Partitioning.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/670769/problem/B",
-      "last_seen": "2026-10-01T22:00:41.705349"
+      "last_seen": "2026-10-03T23:09:21.820121"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Substring_2.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc438/tasks/abc438_b",
-      "last_seen": "2026-10-01T22:00:41.735352"
+      "last_seen": "2026-10-03T23:09:21.840440"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Sum_of_Digits_Sequence.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc427/tasks/abc427_b",
-      "last_seen": "2026-10-01T22:00:41.753762"
+      "last_seen": "2026-10-03T23:09:21.855602"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Team_Training.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.804770"
+      "last_seen": "2026-10-03T23:09:21.892909"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Tenzing_and_Books.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.829762"
+      "last_seen": "2026-10-03T23:09:21.972731"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_The_Ancient_Beacons.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/697296/problem/B",
-      "last_seen": "2026-10-01T22:00:41.853699"
+      "last_seen": "2026-10-03T23:09:21.989237"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_The_Binary_Mirror.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/684550/problem/B",
-      "last_seen": "2026-10-01T22:00:41.861982"
+      "last_seen": "2026-10-03T23:09:21.996221"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_The_Child_and_Set.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.886993"
+      "last_seen": "2026-10-03T23:09:22.023310"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_The_Odd_One_Out.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc426/tasks/abc426_b",
-      "last_seen": "2026-10-01T22:00:41.902993"
+      "last_seen": "2026-10-03T23:09:22.048474"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_The_Picky_Cat.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.929987"
+      "last_seen": "2026-10-03T23:09:22.094478"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_The_Polar_Research_Stations.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/663101/problem/B",
-      "last_seen": "2026-10-01T22:00:41.936998"
+      "last_seen": "2026-10-03T23:09:22.100670"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_The_Stoichiometry_Constraint.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/677155/problem/B",
-      "last_seen": "2026-10-01T22:00:41.951981"
+      "last_seen": "2026-10-03T23:09:22.115110"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_The_Third_Side.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:41.977039"
+      "last_seen": "2026-10-03T23:09:22.146206"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Tombola.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc437/tasks/abc437_b",
-      "last_seen": "2026-10-01T22:00:41.993802"
+      "last_seen": "2026-10-03T23:09:22.174263"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Total_Length.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/B",
-      "last_seen": "2026-10-01T22:00:42.000810"
+      "last_seen": "2026-10-03T23:09:22.181877"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Trifecta.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc440/tasks/abc440_b",
-      "last_seen": "2026-10-01T22:00:42.027411"
+      "last_seen": "2026-10-03T23:09:22.219089"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_T_primes.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.087056"
+      "last_seen": "2026-10-03T23:09:22.335550"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Vanya_and_Lanterns.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.153231"
+      "last_seen": "2026-10-03T23:09:23.441534"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Void_Reactor_Polarization.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/693654/problem/B",
-      "last_seen": "2026-10-01T22:00:42.183808"
+      "last_seen": "2026-10-03T23:09:23.948039"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Worms.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.233615"
+      "last_seen": "2026-10-03T23:09:24.539305"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Yet_Another_MEX_Problem.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.286656"
+      "last_seen": "2026-10-03T23:09:24.835150"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\c1.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.318669"
+      "last_seen": "2026-10-03T23:09:24.864791"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Cab_Rides.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START203C/problems/CABRIDE",
-      "last_seen": "2026-10-01T22:00:42.326864"
+      "last_seen": "2026-10-03T23:09:24.869951"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Cake_Discount.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START233C/problems/DISCOUNT7",
-      "last_seen": "2026-10-01T22:00:42.333730"
+      "last_seen": "2026-10-03T23:09:24.875972"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Candy_Tribulation.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc432/tasks/abc432_c",
-      "last_seen": "2026-10-01T22:00:42.340726"
+      "last_seen": "2026-10-03T23:09:24.883377"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Candy_Types.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START222C/problems/CANDYTYPE",
-      "last_seen": "2026-10-01T22:00:42.347735"
+      "last_seen": "2026-10-03T23:09:24.889396"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Carrot_Collection.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/problems/CARRCOL",
-      "last_seen": "2026-10-01T22:00:42.356088"
+      "last_seen": "2026-10-03T23:09:24.895566"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Celester.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc464/tasks/abc464_d",
-      "last_seen": "2026-10-01T22:00:42.363210"
+      "last_seen": "2026-10-03T23:09:24.901720"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Chalkboard_Median.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc458/tasks/abc458_d",
-      "last_seen": "2026-10-01T22:00:42.372200"
+      "last_seen": "2026-10-03T23:09:24.905731"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Chef_and_Close_Friends.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START214C/problems/P4HOME",
-      "last_seen": "2026-10-01T22:00:42.379194"
+      "last_seen": "2026-10-03T23:09:24.914430"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Chef_Bakes_Cake.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START200C/problems/CHEFBAKES77",
-      "last_seen": "2026-10-01T22:00:42.388209"
+      "last_seen": "2026-10-03T23:09:24.920452"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Chompers.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc458/tasks/abc458_a",
-      "last_seen": "2026-10-01T22:00:42.396203"
+      "last_seen": "2026-10-03T23:09:24.931089"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Cloud_Watching.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START196C/problems/CWCTH",
-      "last_seen": "2026-10-01T22:00:42.404203"
+      "last_seen": "2026-10-03T23:09:24.939122"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Coin_Piles.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1754",
-      "last_seen": "2026-10-01T22:00:42.412194"
+      "last_seen": "2026-10-03T23:09:24.947705"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Collecting_Numbers.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/2216",
-      "last_seen": "2026-10-01T22:00:42.420210"
+      "last_seen": "2026-10-03T23:09:24.955733"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Coloured_Orbs.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START203C/problems/COLORB",
-      "last_seen": "2026-10-01T22:00:42.428202"
+      "last_seen": "2026-10-03T23:09:24.968576"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Common_Divisors.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1081",
-      "last_seen": "2026-10-01T22:00:42.434198"
+      "last_seen": "2026-10-03T23:09:24.987194"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Compromise.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc466/tasks/abc466_a",
-      "last_seen": "2026-10-01T22:00:42.442201"
+      "last_seen": "2026-10-03T23:09:25.021050"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Cooler.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START234C/problems/COOLER7",
-      "last_seen": "2026-10-01T22:00:42.449207"
+      "last_seen": "2026-10-03T23:09:25.038799"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Cooling_Conundrum.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START245C/problems/COOLCON",
-      "last_seen": "2026-10-01T22:00:42.457203"
+      "last_seen": "2026-10-03T23:09:25.045542"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Counting_Divisors.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1713",
-      "last_seen": "2026-10-01T22:00:42.465198"
+      "last_seen": "2026-10-03T23:09:25.054328"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Count_Adjacent_Cells.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc458/tasks/abc458_b",
-      "last_seen": "2026-10-01T22:00:42.473194"
+      "last_seen": "2026-10-03T23:09:25.062253"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Count_Close_Pairs.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc466/tasks/abc466_c",
-      "last_seen": "2026-10-01T22:00:42.482198"
+      "last_seen": "2026-10-03T23:09:25.070423"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Creating_Strings.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1622",
-      "last_seen": "2026-10-01T22:00:42.490200"
+      "last_seen": "2026-10-03T23:09:25.076442"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Crop.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc464/tasks/abc464_b",
-      "last_seen": "2026-10-01T22:00:42.499205"
+      "last_seen": "2026-10-03T23:09:25.082474"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Crossing_Table_Cloth.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc457/tasks/abc457_e",
-      "last_seen": "2026-10-01T22:00:42.507196"
+      "last_seen": "2026-10-03T23:09:25.088494"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_1_Cirno_and_Number_Easy_Version.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.549448"
+      "last_seen": "2026-10-03T23:09:25.131682"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_1_Vanguard_s_Perimeter_Easy_Version.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/697296/problem/C1",
-      "last_seen": "2026-10-01T22:00:42.595465"
+      "last_seen": "2026-10-03T23:09:25.176369"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_1_We_Be_Flipping_Easy_Version.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.619039"
+      "last_seen": "2026-10-03T23:09:25.253738"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_2026.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.641370"
+      "last_seen": "2026-10-03T23:09:25.289025"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_2_We_Be_Flipping_Hard_Version.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.690427"
+      "last_seen": "2026-10-03T23:09:25.338290"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Advantage.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.714658"
+      "last_seen": "2026-10-03T23:09:25.357055"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Alternated.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc421/tasks/abc421_c",
-      "last_seen": "2026-10-01T22:00:42.722750"
+      "last_seen": "2026-10-03T23:09:25.364989"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_AtCoder_AAC_Contest.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc422/tasks/abc422_c",
-      "last_seen": "2026-10-01T22:00:42.801264"
+      "last_seen": "2026-10-03T23:09:25.430956"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_AtCoder_Riko.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc444/tasks/abc444_c",
-      "last_seen": "2026-10-01T22:00:42.809546"
+      "last_seen": "2026-10-03T23:09:25.437058"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Bob_and_Alex.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/633827/problem/C",
-      "last_seen": "2026-10-01T22:00:42.873158"
+      "last_seen": "2026-10-03T23:09:25.511676"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Brackets_Stack_Query.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc428/tasks/abc428_c",
-      "last_seen": "2026-10-01T22:00:42.891152"
+      "last_seen": "2026-10-03T23:09:25.558090"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Cake_Assignment.cpp": {
       "reason": "problem 2139C not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:42.908152"
+      "last_seen": "2026-10-03T23:09:25.584866"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Chat_Ban.cpp": {
       "reason": "unparseable URL: c:\\Users\\chaha\\Desktop\\DSA\\CF Problems\\C_Chat_Ban.cpp",
-      "last_seen": "2026-10-01T22:00:42.931178"
+      "last_seen": "2026-10-03T23:09:25.683372"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Che_city.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/C",
-      "last_seen": "2026-10-01T22:00:42.947155"
+      "last_seen": "2026-10-03T23:09:25.707647"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Circle_of_Fate.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/690879/problem/C",
-      "last_seen": "2026-10-01T22:00:42.962765"
+      "last_seen": "2026-10-03T23:09:25.722303"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Closest_to_the_Right.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C",
-      "last_seen": "2026-10-01T22:00:42.978777"
+      "last_seen": "2026-10-03T23:09:25.755634"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_COD_3.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/632608/problem/C",
-      "last_seen": "2026-10-01T22:00:42.987659"
+      "last_seen": "2026-10-03T23:09:25.763425"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Comfortable_Distance.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc449/tasks/abc449_c",
-      "last_seen": "2026-10-01T22:00:43.005681"
+      "last_seen": "2026-10-03T23:09:25.775470"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Diagonal_Deployment_Hard_Version.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/686424/problem/C",
-      "last_seen": "2026-10-01T22:00:43.061248"
+      "last_seen": "2026-10-03T23:09:25.895353"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Distance_Indicators.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc417/tasks/abc417_c",
-      "last_seen": "2026-10-01T22:00:43.110802"
+      "last_seen": "2026-10-03T23:09:25.934809"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Factors_of_Factorial.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc052/tasks/arc067_a",
-      "last_seen": "2026-10-01T22:00:43.265656"
+      "last_seen": "2026-10-03T23:09:26.028682"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Game_with_a_Fraction.cpp": {
       "reason": "problem 2197C not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:43.303791"
+      "last_seen": "2026-10-03T23:09:26.064230"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Grid_L.cpp": {
       "reason": "problem 2220C not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:43.367903"
+      "last_seen": "2026-10-03T23:09:26.142687"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_King_s_Summit.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc419/tasks/abc419_c",
-      "last_seen": "2026-10-01T22:00:43.448669"
+      "last_seen": "2026-10-03T23:09:26.233839"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Maximum_splitting.cpp": {
       "reason": "problem 872C not found in Codeforces API",
-      "last_seen": "2026-10-01T22:00:43.569235"
+      "last_seen": "2026-10-03T23:09:26.614181"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Monocarp_and_the_Infinite_Tower_of_Berland.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/654194/problem/C",
-      "last_seen": "2026-10-01T22:00:43.597695"
+      "last_seen": "2026-10-03T23:09:26.821375"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Number_of_Equal.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C",
-      "last_seen": "2026-10-01T22:00:43.642618"
+      "last_seen": "2026-10-03T23:09:27.105313"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Number_of_Segments_with_Small_Sum.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C",
-      "last_seen": "2026-10-01T22:00:43.651628"
+      "last_seen": "2026-10-03T23:09:27.620043"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Odd_One_Subsequence.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc429/tasks/abc429_c",
-      "last_seen": "2026-10-01T22:00:43.671620"
+      "last_seen": "2026-10-03T23:09:27.653204"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Palindromic_Subsequences.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:43.715728"
+      "last_seen": "2026-10-03T23:09:27.700252"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Peer_Review.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc442/tasks/abc442_c",
-      "last_seen": "2026-10-01T22:00:43.733743"
+      "last_seen": "2026-10-03T23:09:27.717080"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Powers_Of_Two.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:43.773244"
+      "last_seen": "2026-10-03T23:09:28.228355"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Registration_system.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:43.886594"
+      "last_seen": "2026-10-03T23:09:28.334597"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Reindeer_and_Sleigh_2.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc437/tasks/abc437_c",
-      "last_seen": "2026-10-01T22:00:43.896593"
+      "last_seen": "2026-10-03T23:09:28.351268"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Server_Reliability_Level.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/677155/problem/C",
-      "last_seen": "2026-10-01T22:00:43.966277"
+      "last_seen": "2026-10-03T23:09:28.450790"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Simple_Repetition.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:44.020520"
+      "last_seen": "2026-10-03T23:09:28.489732"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Sort.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:44.064069"
+      "last_seen": "2026-10-03T23:09:28.544860"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Stands_for_Center.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc458/tasks/abc458_c",
-      "last_seen": "2026-10-01T22:00:44.107073"
+      "last_seen": "2026-10-03T23:09:28.581793"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Straw_Millionaire.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc454/tasks/abc454_c",
-      "last_seen": "2026-10-01T22:00:44.147065"
+      "last_seen": "2026-10-03T23:09:28.617816"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Sugoroku_Destination.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc445/tasks/abc445_c",
-      "last_seen": "2026-10-01T22:00:44.167802"
+      "last_seen": "2026-10-03T23:09:28.631705"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_The_Legend_of_Freya_the_Frog.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:44.305080"
+      "last_seen": "2026-10-03T23:09:28.694681"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_The_Multi_Tiered_Recruitment_Protocol.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/670769/problem/C",
-      "last_seen": "2026-10-01T22:00:44.315088"
+      "last_seen": "2026-10-03T23:09:28.700868"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_The_Mysterious_Copy_Machine.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/680419/problem/C",
-      "last_seen": "2026-10-01T22:00:44.328725"
+      "last_seen": "2026-10-03T23:09:28.708204"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_The_Sorcerers_Sequence.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/662818/problem/C",
-      "last_seen": "2026-10-01T22:00:44.339248"
+      "last_seen": "2026-10-03T23:09:28.713601"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Vanish.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc455/tasks/abc455_c",
-      "last_seen": "2026-10-01T22:00:44.397181"
+      "last_seen": "2026-10-03T23:09:28.758831"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Very_Easy_Task.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C",
-      "last_seen": "2026-10-01T22:00:44.416086"
+      "last_seen": "2026-10-03T23:09:28.770926"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_War_Strategy.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:44.458028"
+      "last_seen": "2026-10-03T23:09:28.797149"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Wheeler_Protocol.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/663101/problem/C",
-      "last_seen": "2026-10-01T22:00:44.468033"
+      "last_seen": "2026-10-03T23:09:28.804542"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Decisive_Battle.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc464/tasks/abc464_a",
-      "last_seen": "2026-10-01T22:00:44.505561"
+      "last_seen": "2026-10-03T23:09:28.828050"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\devupkids.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:44.529542"
+      "last_seen": "2026-10-03T23:09:28.845166"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Dice.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc456/tasks/abc456_a",
-      "last_seen": "2026-10-01T22:00:44.539706"
+      "last_seen": "2026-10-03T23:09:28.852753"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Digit_Circus.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc465/tasks/abc465_e",
-      "last_seen": "2026-10-01T22:00:44.550212"
+      "last_seen": "2026-10-03T23:09:28.859989"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Distributing_Apples.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1716",
-      "last_seen": "2026-10-01T22:00:44.561207"
+      "last_seen": "2026-10-03T23:09:28.867796"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Dividing_by_2.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/problems/DIV2",
-      "last_seen": "2026-10-01T22:00:44.572297"
+      "last_seen": "2026-10-03T23:09:28.871806"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Divisible_Duel.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START209C/problems/P2209",
-      "last_seen": "2026-10-01T22:00:44.583212"
+      "last_seen": "2026-10-03T23:09:28.880291"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Div_Game.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc169/tasks/abc169_d",
-      "last_seen": "2026-10-01T22:00:44.593328"
+      "last_seen": "2026-10-03T23:09:28.886305"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Double_Factorial.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc148/tasks/abc148_e",
-      "last_seen": "2026-10-01T22:00:44.604833"
+      "last_seen": "2026-10-03T23:09:28.892316"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Draft_Picks.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START242C/problems/DRAFTPICK",
-      "last_seen": "2026-10-01T22:00:44.614836"
+      "last_seen": "2026-10-03T23:09:28.897477"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_Anna_and_the_Mysterious_Box.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/680419/problem/D",
-      "last_seen": "2026-10-01T22:00:44.661831"
+      "last_seen": "2026-10-03T23:09:28.933493"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_Coprime_2.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc215/tasks/abc215_d",
-      "last_seen": "2026-10-01T22:00:44.792159"
+      "last_seen": "2026-10-03T23:09:29.018015"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_Fast_search.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D",
-      "last_seen": "2026-10-01T22:00:44.863770"
+      "last_seen": "2026-10-03T23:09:29.064747"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_Fibonacci_II.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/663101/problem/D",
-      "last_seen": "2026-10-01T22:00:44.874408"
+      "last_seen": "2026-10-03T23:09:29.071748"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_For_Wizards_the_Exam_Is_Easy_but_I_Couldn_t_Handle_It.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:44.910401"
+      "last_seen": "2026-10-03T23:09:29.097275"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_Kadomatsu_Subsequence.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:44.975424"
+      "last_seen": "2026-10-03T23:09:29.138766"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_Number_of_Segments_with_Big_Sum.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D",
-      "last_seen": "2026-10-01T22:00:45.027297"
+      "last_seen": "2026-10-03T23:09:29.170244"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_Swap_and_Range_Sum.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc442/tasks/abc442_d",
-      "last_seen": "2026-10-01T22:00:45.194141"
+      "last_seen": "2026-10-03T23:09:29.282393"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_The_Equilibrium_Pivot.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/662818/problem/D",
-      "last_seen": "2026-10-01T22:00:45.279896"
+      "last_seen": "2026-10-03T23:09:29.300923"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_xx.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc454/tasks/abc454_d",
-      "last_seen": "2026-10-01T22:00:45.355728"
+      "last_seen": "2026-10-03T23:09:29.346650"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Equivalent_Exchange.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START245C/problems/EQEXCH",
-      "last_seen": "2026-10-01T22:00:45.412914"
+      "last_seen": "2026-10-03T23:09:29.382220"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Euler_Totient_Function.cpp": {
       "reason": "unparseable URL: https://www.spoj.com/problems/ETF/",
-      "last_seen": "2026-10-01T22:00:45.424001"
+      "last_seen": "2026-10-03T23:09:29.388236"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Eventually_Equal.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START242C/problems/EQMNG",
-      "last_seen": "2026-10-01T22:00:45.436002"
+      "last_seen": "2026-10-03T23:09:29.394758"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\E_Array_Integrity_Check.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/639053/problem/E",
-      "last_seen": "2026-10-01T22:00:45.469289"
+      "last_seen": "2026-10-03T23:09:29.417586"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\E_Beautiful_Array.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:45.494289"
+      "last_seen": "2026-10-03T23:09:29.430150"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\E_Building_an_Aquarium.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:45.541357"
+      "last_seen": "2026-10-03T23:09:29.459801"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\E_Equation.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E",
-      "last_seen": "2026-10-01T22:00:45.564782"
+      "last_seen": "2026-10-03T23:09:29.473409"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\E_Knapsack_on_a_Segment.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/E",
-      "last_seen": "2026-10-01T22:00:45.620095"
+      "last_seen": "2026-10-03T23:09:29.508099"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\E_Segments_with_Small_Set.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/E",
-      "last_seen": "2026-10-01T22:00:45.708345"
+      "last_seen": "2026-10-03T23:09:29.568009"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\E_Sequence_Primes.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/690879/problem/E",
-      "last_seen": "2026-10-01T22:00:45.720043"
+      "last_seen": "2026-10-03T23:09:29.576029"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Factory_Machines.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1620",
-      "last_seen": "2026-10-01T22:00:45.763065"
+      "last_seen": "2026-10-03T23:09:29.605650"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Frog_1.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/dp/tasks/dp_a",
-      "last_seen": "2026-10-01T22:00:45.775050"
+      "last_seen": "2026-10-03T23:09:29.613352"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Frog_2.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/dp/tasks/dp_b",
-      "last_seen": "2026-10-01T22:00:45.786059"
+      "last_seen": "2026-10-03T23:09:29.621375"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\F_Card_Substrings.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/F",
-      "last_seen": "2026-10-01T22:00:45.808054"
+      "last_seen": "2026-10-03T23:09:29.638840"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\F_Eating_Candies.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:45.832054"
+      "last_seen": "2026-10-03T23:09:29.654604"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\F_Harmony_Pairing.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/684550/problem/F",
-      "last_seen": "2026-10-01T22:00:45.858364"
+      "last_seen": "2026-10-03T23:09:29.667056"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\F_Segments_with_Small_Spread.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F",
-      "last_seen": "2026-10-01T22:00:45.896745"
+      "last_seen": "2026-10-03T23:09:29.690837"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\F_The_Upside_Down_Network.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/671091/problem/F",
-      "last_seen": "2026-10-01T22:00:45.907928"
+      "last_seen": "2026-10-03T23:09:29.696665"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\GCD_Extreme.cpp": {
       "reason": "unparseable URL: https://www.spoj.com/problems/GCDEX/",
-      "last_seen": "2026-10-01T22:00:45.949474"
+      "last_seen": "2026-10-03T23:09:29.732006"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Gift.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc462/tasks/abc462_b",
-      "last_seen": "2026-10-01T22:00:45.961459"
+      "last_seen": "2026-10-03T23:09:29.740039"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Good_Array_1.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START234C/problems/GOOD1",
-      "last_seen": "2026-10-01T22:00:45.978853"
+      "last_seen": "2026-10-03T23:09:29.749426"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Good_Subsequence.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START200C/problems/GOODSUB7",
-      "last_seen": "2026-10-01T22:00:45.993044"
+      "last_seen": "2026-10-03T23:09:29.757000"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Grid_1.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/dp/tasks/dp_h",
-      "last_seen": "2026-10-01T22:00:46.008048"
+      "last_seen": "2026-10-03T23:09:29.767047"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\G_COD_7.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/632608/problem/G",
-      "last_seen": "2026-10-01T22:00:46.031559"
+      "last_seen": "2026-10-03T23:09:29.784653"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\G_Coprime_Segment.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/G",
-      "last_seen": "2026-10-01T22:00:46.043860"
+      "last_seen": "2026-10-03T23:09:29.802387"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\G_Even_Odd_XOR.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:46.068853"
+      "last_seen": "2026-10-03T23:09:29.820728"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\G_Not_Very_Rude_Substring.cpp": {
       "reason": "unparseable URL: https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/G",
-      "last_seen": "2026-10-01T22:00:46.079867"
+      "last_seen": "2026-10-03T23:09:29.829438"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Hell_World.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:46.098873"
+      "last_seen": "2026-10-03T23:09:29.844903"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Huge_Grid_Easy_Version.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START201C/problems/HUGE_GRID_EZ",
-      "last_seen": "2026-10-01T22:00:46.110376"
+      "last_seen": "2026-10-03T23:09:29.853076"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\H_Mirror_Check_Failed.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/675631/problem/H",
-      "last_seen": "2026-10-01T22:00:46.133388"
+      "last_seen": "2026-10-03T23:09:29.869412"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\IceCream_Cones.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START226C/problems/ICECONE6",
-      "last_seen": "2026-10-01T22:00:46.145377"
+      "last_seen": "2026-10-03T23:09:29.878672"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\IMP FUNCN.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:46.170439"
+      "last_seen": "2026-10-03T23:09:29.896949"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Increasing_Array.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1094",
-      "last_seen": "2026-10-01T22:00:46.181811"
+      "last_seen": "2026-10-03T23:09:29.904006"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\J_Factorial.cpp": {
       "reason": "unparseable URL: https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J",
-      "last_seen": "2026-10-01T22:00:46.194827"
+      "last_seen": "2026-10-03T23:09:29.916516"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\K_Median.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START233C/problems/KMED",
-      "last_seen": "2026-10-01T22:00:46.206995"
+      "last_seen": "2026-10-03T23:09:29.924533"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Layered_Cake.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START222C/problems/LAYERCAKE",
-      "last_seen": "2026-10-01T22:00:46.219994"
+      "last_seen": "2026-10-03T23:09:29.932304"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Long_Sequence.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc457/tasks/abc457_c",
-      "last_seen": "2026-10-01T22:00:46.254727"
+      "last_seen": "2026-10-03T23:09:29.939303"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Make_An_AP.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START217C/problems/MAKEAP7",
-      "last_seen": "2026-10-01T22:00:46.273037"
+      "last_seen": "2026-10-03T23:09:29.955931"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Make_Subarray.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START207C/problems/MAKESUB",
-      "last_seen": "2026-10-01T22:00:46.309908"
+      "last_seen": "2026-10-03T23:09:29.964583"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Mark_Points.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START201C/problems/MARKP",
-      "last_seen": "2026-10-01T22:00:46.322918"
+      "last_seen": "2026-10-03T23:09:29.971129"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Maximize_the_Gap.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc463/tasks/abc463_d",
-      "last_seen": "2026-10-01T22:00:46.334917"
+      "last_seen": "2026-10-03T23:09:29.980021"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Maximum_Smaller.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START207C/problems/MXSMALL",
-      "last_seen": "2026-10-01T22:00:46.345932"
+      "last_seen": "2026-10-03T23:09:29.987746"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Maximum_Subarray_Sum.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1643",
-      "last_seen": "2026-10-01T22:00:46.358473"
+      "last_seen": "2026-10-03T23:09:29.996751"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Maximum_Subarray_Sum_II.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:46.382799"
+      "last_seen": "2026-10-03T23:09:30.012996"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Max_Minus_Min.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START226C/problems/MAXMIN6",
-      "last_seen": "2026-10-01T22:00:46.394804"
+      "last_seen": "2026-10-03T23:09:30.021015"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\MEX_on_Ranges.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START203C/problems/MEXRANGE",
-      "last_seen": "2026-10-01T22:00:46.412795"
+      "last_seen": "2026-10-03T23:09:30.027862"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Minimum_Distinct.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START226C/problems/MINDIS6",
-      "last_seen": "2026-10-01T22:00:46.422794"
+      "last_seen": "2026-10-03T23:09:30.036038"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Missing_Number.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1083",
-      "last_seen": "2026-10-01T22:00:46.433799"
+      "last_seen": "2026-10-03T23:09:30.044567"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Mixing_Liquids.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START201C/problems/MIXINGLIQ",
-      "last_seen": "2026-10-01T22:00:46.447166"
+      "last_seen": "2026-10-03T23:09:30.052056"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\More_Cookies.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START196C/problems/MORECOOK",
-      "last_seen": "2026-10-01T22:00:46.457633"
+      "last_seen": "2026-10-03T23:09:30.063234"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Movie.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START233C/problems/MOVIE7",
-      "last_seen": "2026-10-01T22:00:46.469496"
+      "last_seen": "2026-10-03T23:09:30.071269"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Movie_Festival.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1629",
-      "last_seen": "2026-10-01T22:00:46.477678"
+      "last_seen": "2026-10-03T23:09:30.080787"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Multiplication_Table.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/2422",
-      "last_seen": "2026-10-01T22:00:46.488237"
+      "last_seen": "2026-10-03T23:09:30.088807"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\M_Mathy_Sequence.cpp": {
       "reason": "unparseable URL: https://codeforces.com/gym/675631/problem/M",
-      "last_seen": "2026-10-01T22:00:46.500228"
+      "last_seen": "2026-10-03T23:09:30.097783"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Non_Negative_Sum.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START234C/problems/NONNEGSUM",
-      "last_seen": "2026-10-01T22:00:46.523245"
+      "last_seen": "2026-10-03T23:09:30.115479"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Not_Covered_Points.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc462/tasks/abc462_c",
-      "last_seen": "2026-10-01T22:00:46.535973"
+      "last_seen": "2026-10-03T23:09:30.123505"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Not_Divisible.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/problems/NODV",
-      "last_seen": "2026-10-01T22:00:46.548649"
+      "last_seen": "2026-10-03T23:09:30.131941"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\N_Sum_of_a_Matrix.cpp": {
       "reason": "unparseable URL: https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/N",
-      "last_seen": "2026-10-01T22:00:46.562669"
+      "last_seen": "2026-10-03T23:09:30.137957"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Odd_Operations.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START221C/problems/LMP3",
-      "last_seen": "2026-10-01T22:00:46.574664"
+      "last_seen": "2026-10-03T23:09:30.146717"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Odd_String.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START221C/problems/LMP2",
-      "last_seen": "2026-10-01T22:00:46.595213"
+      "last_seen": "2026-10-03T23:09:30.154746"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Palindrome_by_Splitting.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/problems/SPLITPAL",
-      "last_seen": "2026-10-01T22:00:46.608771"
+      "last_seen": "2026-10-03T23:09:30.163941"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Palindrome_Reorder.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1755",
-      "last_seen": "2026-10-01T22:00:46.620760"
+      "last_seen": "2026-10-03T23:09:30.169964"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Parking_2.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc465/tasks/abc465_b",
-      "last_seen": "2026-10-01T22:00:46.632767"
+      "last_seen": "2026-10-03T23:09:30.179931"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Passing_Chain.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/problems/PASSCHAIN",
-      "last_seen": "2026-10-01T22:00:46.644774"
+      "last_seen": "2026-10-03T23:09:30.185950"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Passing_Grade.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START203C/problems/PASSINGGR",
-      "last_seen": "2026-10-01T22:00:46.657758"
+      "last_seen": "2026-10-03T23:09:30.196690"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Permutations.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1070",
-      "last_seen": "2026-10-01T22:00:46.670759"
+      "last_seen": "2026-10-03T23:09:30.204780"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Permute_to_Maximize.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc432/tasks/abc432_a",
-      "last_seen": "2026-10-01T22:00:46.682767"
+      "last_seen": "2026-10-03T23:09:30.212598"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Permute_to_Minimize.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc432/tasks/abc432_b",
-      "last_seen": "2026-10-01T22:00:46.694759"
+      "last_seen": "2026-10-03T23:09:30.220620"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Placing_Rooks.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc466/tasks/abc466_d",
-      "last_seen": "2026-10-01T22:00:46.707045"
+      "last_seen": "2026-10-03T23:09:30.228020"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Plant.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START246C/problems/TEMPPLANT",
-      "last_seen": "2026-10-01T22:00:46.720043"
+      "last_seen": "2026-10-03T23:09:30.235056"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Playing_with_Toys.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START217C/problems/TOYS",
-      "last_seen": "2026-10-01T22:00:46.732262"
+      "last_seen": "2026-10-03T23:09:30.244726"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Plumage_Palette.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc464/tasks/abc464_c",
-      "last_seen": "2026-10-01T22:00:46.744258"
+      "last_seen": "2026-10-03T23:09:30.252903"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Point_Calculation.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START246C/problems/POINTCAL",
-      "last_seen": "2026-10-01T22:00:46.755263"
+      "last_seen": "2026-10-03T23:09:30.263036"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Q_3_n_1_sequence.cpp": {
       "reason": "unparseable URL: https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q",
-      "last_seen": "2026-10-01T22:00:46.768263"
+      "last_seen": "2026-10-03T23:09:30.273078"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Raise_Minimum.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc457/tasks/abc457_d",
-      "last_seen": "2026-10-01T22:00:46.782514"
+      "last_seen": "2026-10-03T23:09:30.285265"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Range_Flip.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc466/tasks/abc466_e",
-      "last_seen": "2026-10-01T22:00:46.795514"
+      "last_seen": "2026-10-03T23:09:30.293921"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Recover_Palindrome.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START235C/problems/P2235",
-      "last_seen": "2026-10-01T22:00:46.808509"
+      "last_seen": "2026-10-03T23:09:30.302050"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Rectangle_Coloring.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START221C/problems/LMP5",
-      "last_seen": "2026-10-01T22:00:46.820521"
+      "last_seen": "2026-10-03T23:09:30.309464"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\REDOO.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:46.843837"
+      "last_seen": "2026-10-03T23:09:30.325760"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Red_Yellow_Cards.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START246C/problems/RYCARDS",
-      "last_seen": "2026-10-01T22:00:46.852844"
+      "last_seen": "2026-10-03T23:09:30.333881"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Repdigit.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc444/tasks/abc444_a",
-      "last_seen": "2026-10-01T22:00:46.865679"
+      "last_seen": "2026-10-03T23:09:30.339894"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Repetitions.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1069",
-      "last_seen": "2026-10-01T22:00:46.876899"
+      "last_seen": "2026-10-03T23:09:30.349693"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Representative_Balls.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc466/tasks/abc466_b",
-      "last_seen": "2026-10-01T22:00:46.890199"
+      "last_seen": "2026-10-03T23:09:30.357392"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Restrict_Palindromes.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START200C/problems/RESPAL",
-      "last_seen": "2026-10-01T22:00:46.901213"
+      "last_seen": "2026-10-03T23:09:30.363964"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Reverse_Permutation.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc465/tasks/abc465_c",
-      "last_seen": "2026-10-01T22:00:46.911202"
+      "last_seen": "2026-10-03T23:09:30.371991"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Secret_Numbers.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc462/tasks/abc462_a",
-      "last_seen": "2026-10-01T22:00:46.924055"
+      "last_seen": "2026-10-03T23:09:30.380480"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sell_Upto_2.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START222C/problems/SELL2",
-      "last_seen": "2026-10-01T22:00:46.932094"
+      "last_seen": "2026-10-03T23:09:30.389580"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sequence_Easy.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START246C/problems/SEQ1",
-      "last_seen": "2026-10-01T22:00:46.943435"
+      "last_seen": "2026-10-03T23:09:30.396615"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sequence_Hard.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START246C/problems/SEQ2",
-      "last_seen": "2026-10-01T22:00:46.954437"
+      "last_seen": "2026-10-03T23:09:30.404632"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sliding_Window_Cost.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1077",
-      "last_seen": "2026-10-01T22:00:46.966437"
+      "last_seen": "2026-10-03T23:09:30.413281"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sliding_Window_Median.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1076",
-      "last_seen": "2026-10-01T22:00:46.978004"
+      "last_seen": "2026-10-03T23:09:30.421306"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Small_GCD_Sort.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START209C/problems/P3209",
-      "last_seen": "2026-10-01T22:00:46.990310"
+      "last_seen": "2026-10-03T23:09:30.429875"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sorting_Prefixes.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START222C/problems/SORTPREF",
-      "last_seen": "2026-10-01T22:00:47.003592"
+      "last_seen": "2026-10-03T23:09:30.437898"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Subarray_Sums_I.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1660",
-      "last_seen": "2026-10-01T22:00:47.013955"
+      "last_seen": "2026-10-03T23:09:30.446575"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sub_A_Add_B.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START226C/problems/SUBAADDB",
-      "last_seen": "2026-10-01T22:00:47.026633"
+      "last_seen": "2026-10-03T23:09:30.454599"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sugar_Limit.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START196C/problems/SULIM",
-      "last_seen": "2026-10-01T22:00:47.038202"
+      "last_seen": "2026-10-03T23:09:30.461047"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sum_of_Three_Values.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1641",
-      "last_seen": "2026-10-01T22:00:47.050697"
+      "last_seen": "2026-10-03T23:09:30.469916"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Sum_of_Two_Values.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1640",
-      "last_seen": "2026-10-01T22:00:47.063196"
+      "last_seen": "2026-10-03T23:09:30.477870"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Supermajority.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc465/tasks/abc465_a",
-      "last_seen": "2026-10-01T22:00:47.074533"
+      "last_seen": "2026-10-03T23:09:30.486030"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Tactical_Conversion.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START209C/problems/P4209",
-      "last_seen": "2026-10-01T22:00:47.085901"
+      "last_seen": "2026-10-03T23:09:30.493988"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Tallest_at_the_Moment.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc463/tasks/abc463_c",
-      "last_seen": "2026-10-01T22:00:47.099793"
+      "last_seen": "2026-10-03T23:09:30.501843"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Teleport_Home.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START244C/problems/TELHOME",
-      "last_seen": "2026-10-01T22:00:47.109317"
+      "last_seen": "2026-10-03T23:09:30.510656"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\temp.cpp": {
       "reason": "unparseable URL: c:\\Users\\chaha\\Desktop\\DSA\\CF Problems\\temp.cpp",
-      "last_seen": "2026-10-01T22:00:47.121402"
+      "last_seen": "2026-10-03T23:09:30.517311"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\tempCodeRunnerFile.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:47.144332"
+      "last_seen": "2026-10-03T23:09:30.534601"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\The_Great_Run.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:47.166311"
+      "last_seen": "2026-10-03T23:09:30.551224"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Three_Strings_Problem_Easy_Version.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START221C/problems/LMP7E",
-      "last_seen": "2026-10-01T22:00:47.178258"
+      "last_seen": "2026-10-03T23:09:30.560347"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Tourist.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START207C/problems/TOURIST",
-      "last_seen": "2026-10-01T22:00:47.190270"
+      "last_seen": "2026-10-03T23:09:30.569099"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Trailing_Zeros.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:47.212307"
+      "last_seen": "2026-10-03T23:09:30.584164"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Train_Reservation.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc463/tasks/abc463_b",
-      "last_seen": "2026-10-01T22:00:47.225339"
+      "last_seen": "2026-10-03T23:09:30.592164"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Tree_Swapping_Easy.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START244C/problems/TREESWAP1",
-      "last_seen": "2026-10-01T22:00:47.240797"
+      "last_seen": "2026-10-03T23:09:30.599596"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Tree_Swapping_Hard.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START244C/problems/TREESWAP2",
-      "last_seen": "2026-10-01T22:00:47.257666"
+      "last_seen": "2026-10-03T23:09:30.607616"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Triple_Threat.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START245C/problems/TRTR3",
-      "last_seen": "2026-10-01T22:00:47.268304"
+      "last_seen": "2026-10-03T23:09:30.619461"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Two_Sets.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1092",
-      "last_seen": "2026-10-01T22:00:47.275491"
+      "last_seen": "2026-10-03T23:09:30.628044"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Vacation.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/dp/tasks/dp_c",
-      "last_seen": "2026-10-01T22:00:47.286174"
+      "last_seen": "2026-10-03T23:09:30.636688"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Waiting_Easy.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START246C/problems/WAIT1",
-      "last_seen": "2026-10-01T22:00:47.295833"
+      "last_seen": "2026-10-03T23:09:30.643945"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Waiting_Hard.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START246C/problems/WAIT2",
-      "last_seen": "2026-10-01T22:00:47.307850"
+      "last_seen": "2026-10-03T23:09:30.652892"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Weird_Algorithm.cpp": {
       "reason": "unparseable URL: https://cses.fi/problemset/task/1068",
-      "last_seen": "2026-10-01T22:00:47.322037"
+      "last_seen": "2026-10-03T23:09:30.661107"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\Winter_is_Coming.cpp": {
       "reason": "unparseable URL: https://www.codechef.com/START221C/problems/LMP2E",
-      "last_seen": "2026-10-01T22:00:47.339357"
+      "last_seen": "2026-10-03T23:09:30.668875"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\X_to_Y.cpp": {
       "reason": "unparseable URL: https://atcoder.jp/contests/abc465/tasks/abc465_d",
-      "last_seen": "2026-10-01T22:00:47.350548"
+      "last_seen": "2026-10-03T23:09:30.676242"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\yoy_exponen.cpp": {
       "reason": "unparseable URL: c:\\Users\\chaha\\Desktop\\DSA\\CF Problems\\yoy_exponen.cpp",
-      "last_seen": "2026-10-01T22:00:47.363563"
+      "last_seen": "2026-10-03T23:09:30.682681"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\A_Iskander_and_Drawings.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:37.425618"
+      "last_seen": "2026-10-03T23:09:17.975050"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\B_Nikita_and_Books.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:40.887603"
+      "last_seen": "2026-10-03T23:09:21.103384"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_2_Guessing_the_Greatest_hard_version.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.665416"
+      "last_seen": "2026-10-03T23:09:25.308136"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Basketball_Exercise.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:42.854981"
+      "last_seen": "2026-10-03T23:09:25.478877"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\C_Stepan_and_Permutation.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:44.127069"
+      "last_seen": "2026-10-03T23:09:28.601808"
     },
     "C:\\Users\\chaha\\Desktop\\Codeforces_problem_mine\\D_Yaroslav_and_Productivity.cpp": {
       "reason": "no CPH metadata found",
-      "last_seen": "2026-10-01T22:00:45.379791"
+      "last_seen": "2026-10-03T23:09:29.363240"
     }
   }
 }
